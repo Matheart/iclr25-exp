@@ -1,0 +1,49 @@
+
+  0%|          | 0/100000 [00:00<?, ?it/s]
+epoch 0  training loss: 0.6141102313995361
+epoch 0  clean testing loss: 0.5066788792610168
+
+  0%|          | 157/100000 [00:03<18:53, 88.05it/s]
+epoch 100  training loss: 0.257876992225647
+epoch 100  clean testing loss: 0.16273674368858337
+epoch 200  training loss: 0.1927662491798401
+epoch 200  clean testing loss: 0.09594811499118805
+epoch 300  training loss: 0.17623582482337952
+epoch 300  clean testing loss: 0.07874932885169983
+epoch 400  training loss: 0.1612907350063324
+epoch 400  clean testing loss: 0.06388846784830093
+epoch 500  training loss: 0.14932487905025482
+
+  1%|          | 726/100000 [00:04<03:26, 480.41it/s]
+epoch 600  training loss: 0.14136798679828644
+epoch 600  clean testing loss: 0.04640632122755051
+epoch 700  training loss: 0.13642962276935577
+
+  1%|          | 987/100000 [00:06<08:02, 205.37it/s]
+epoch 800  training loss: 0.13314440846443176
+epoch 800  clean testing loss: 0.03988705575466156
+epoch 900  training loss: 0.1304929107427597
+epoch 900  clean testing loss: 0.03780977055430412
+epoch 1000  training loss: 0.1282682865858078
+epoch 1000  clean testing loss: 0.03619266301393509
+
+  1%|▏         | 1395/100000 [00:10<06:07, 268.50it/s]
+epoch 1100  training loss: 0.12638704478740692
+epoch 1100  clean testing loss: 0.03463255241513252
+epoch 1200  training loss: 0.12464144080877304
+epoch 1200  clean testing loss: 0.03350315988063812
+epoch 1300  training loss: 0.12327262759208679
+epoch 1300  clean testing loss: 0.03240291029214859
+epoch 1400  training loss: 0.12204307317733765
+
+  2%|▏         | 1800/100000 [00:12<11:41, 139.92it/s]
+epoch 1500  training loss: 0.12095143646001816
+epoch 1500  clean testing loss: 0.031044652685523033
+epoch 1600  training loss: 0.11995407938957214
+epoch 1600  clean testing loss: 0.03036874160170555
+epoch 1700  training loss: 0.11887568980455399
+epoch 1700  clean testing loss: 0.0296295378357172
+epoch 1800  training loss: 0.11781486123800278
+epoch 1800  clean testing loss: 0.02878563664853573
+Validation loss variation < 1e-6, trained to interpolation, stop
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size1000_noise1.00e-01_invop0 ...

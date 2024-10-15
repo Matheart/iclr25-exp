@@ -1,0 +1,12 @@
+
+  0%|                                                                                 | 103/300000 [00:06<1:10:30, 70.89it/s]
+epoch 0  training loss: 50.050331115722656
+epoch 0  clean testing loss: 49.80117416381836
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size500_noise1.00e-02_invop1 ...
+epoch 100  training loss: 0.23753145337104797
+
+  0%|                                                                                 | 200/300000 [00:08<3:20:00, 24.98it/s]
+epoch 200  training loss: 0.047280214726924896
+epoch 200  clean testing loss: 0.058355290442705154
+Validation loss variation < 1e-, trained to interpolation, stop
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size500_noise1.00e-02_invop1 ...

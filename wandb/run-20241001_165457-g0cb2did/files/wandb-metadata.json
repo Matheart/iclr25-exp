@@ -1,0 +1,375 @@
+{
+    "os": "Linux-4.18.0-477.51.1.el8_8.x86_64-x86_64-with-glibc2.28",
+    "python": "3.10.14",
+    "heartbeatAt": "2024-10-01T20:55:07.552564",
+    "startedAt": "2024-10-01T20:54:57.864383",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--inv_op_power",
+        "1",
+        "--folder",
+        "new_plot",
+        "--noise_level",
+        "1e-1",
+        "--num_layer",
+        "3",
+        "--width",
+        "512",
+        "--sample_size",
+        "50"
+    ],
+    "state": "running",
+    "program": "/home/howon/aistats25-exp/nn_exp.py",
+    "codePathLocal": "nn_exp.py",
+    "codePath": "nn_exp.py",
+    "host": "lh1200.arc-ts.umich.edu",
+    "username": "howon",
+    "executable": "/home/howon/.conda/envs/cs552/bin/python",
+    "cpu_count": 64,
+    "cpu_count_logical": 64,
+    "cpu_freq": {
+        "current": 3390.625,
+        "min": 3400.0,
+        "max": 3400.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3300.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3300.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3300.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3300.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3300.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 3400.0,
+            "min": 3400.0,
+            "max": 3400.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 19.990234375,
+            "used": 9.609580993652344
+        }
+    },
+    "gpu": "NVIDIA L40S",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA L40S",
+            "memory_total": 48305799168
+        }
+    ],
+    "memory": {
+        "total": 503.03754806518555
+    }
+}

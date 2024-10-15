@@ -1,0 +1,2236 @@
+
+  0%|                                                                                | 84/100000 [00:01<26:15, 63.41it/s]
+epoch 0  training loss: 52.24414825439453
+epoch 0  clean testing loss: 56.10417938232422
+
+  0%|▏                                                                              | 210/100000 [00:03<25:44, 64.62it/s]
+epoch 100  training loss: 0.5423845648765564
+epoch 100  clean testing loss: 0.903765082359314
+epoch 200  training loss: 0.11656943708658218
+
+  0%|▎                                                                              | 343/100000 [00:05<25:47, 64.40it/s]
+epoch 300  training loss: 0.057214539498090744
+
+  0%|▎                                                                              | 469/100000 [00:07<25:38, 64.71it/s]
+epoch 400  training loss: 0.037811823189258575
+epoch 400  clean testing loss: 0.32237473130226135
+epoch 500  training loss: 0.03156481310725212
+
+  1%|▍                                                                              | 602/100000 [00:09<25:39, 64.55it/s]
+epoch 600  training loss: 0.03232460841536522
+
+  1%|▌                                                                              | 728/100000 [00:11<25:31, 64.83it/s]
+epoch 700  training loss: 0.024941163137555122
+
+  1%|▋                                                                              | 861/100000 [00:13<25:41, 64.30it/s]
+epoch 800  training loss: 0.018048573285341263
+epoch 800  clean testing loss: 0.3293232321739197
+epoch 900  training loss: 0.022345134988427162
+
+  1%|▊                                                                              | 987/100000 [00:15<25:39, 64.30it/s]
+epoch 1000  training loss: 0.018385784700512886
+epoch 1000  clean testing loss: 0.3455260694026947
+
+  1%|▊                                                                             | 1120/100000 [00:17<25:35, 64.38it/s]
+epoch 1100  training loss: 0.014560030773282051
+
+  1%|▉                                                                             | 1197/100000 [00:18<25:31, 64.50it/s]
+epoch 1200  training loss: 0.017691191285848618
+epoch 1200  clean testing loss: 0.31730276346206665
+epoch 1300  training loss: 0.011710687540471554
+epoch 1300  clean testing loss: 0.31514179706573486
+epoch 1400  training loss: 0.015470277518033981
+epoch 1400  clean testing loss: 0.3145785331726074
+epoch 1500  training loss: 0.016872940585017204
+epoch 1500  clean testing loss: 0.32655608654022217
+epoch 1600  training loss: 0.01381242461502552
+epoch 1600  clean testing loss: 0.33910536766052246
+epoch 1700  training loss: 0.017062459141016006
+epoch 1700  clean testing loss: 0.35203981399536133
+epoch 1800  training loss: 0.01772034354507923
+epoch 1800  clean testing loss: 0.34156349301338196
+epoch 1900  training loss: 0.010970105417072773
+epoch 1900  clean testing loss: 0.34595754742622375
+epoch 2000  training loss: 0.010141169652342796
+epoch 2000  clean testing loss: 0.35658377408981323
+
+  2%|█▌                                                                            | 2018/100000 [00:30<26:03, 62.66it/s]
+epoch 2100  training loss: 0.011113625951111317
+
+  2%|█▋                                                                            | 2095/100000 [00:31<25:10, 64.81it/s]
+epoch 2200  training loss: 0.009770985692739487
+epoch 2200  clean testing loss: 0.3462736904621124
+epoch 2300  training loss: 0.010514108464121819
+
+  2%|█▊                                                                            | 2312/100000 [00:34<25:08, 64.75it/s]
+epoch 2400  training loss: 0.013905253261327744
+
+  2%|█▊                                                                            | 2396/100000 [00:35<25:13, 64.47it/s]
+epoch 2500  training loss: 0.008904802612960339
+epoch 2500  clean testing loss: 0.3620654344558716
+epoch 2600  training loss: 0.009958365000784397
+epoch 2600  clean testing loss: 0.35242435336112976
+epoch 2700  training loss: 0.008134554140269756
+epoch 2700  clean testing loss: 0.37550631165504456
+epoch 2800  training loss: 0.016276802867650986
+epoch 2800  clean testing loss: 0.42536428570747375
+epoch 2900  training loss: 0.008665439672768116
+
+  3%|██▎                                                                           | 2991/100000 [00:45<25:14, 64.04it/s]
+epoch 3000  training loss: 0.009772464632987976
+epoch 3000  clean testing loss: 0.4295608699321747
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 3100  training loss: 0.021608466282486916
+
+  3%|██▍                                                                           | 3096/100000 [00:46<25:01, 64.53it/s]
+epoch 3200  training loss: 0.015454430133104324
+epoch 3200  clean testing loss: 0.3786950707435608
+epoch 3300  training loss: 0.01068224385380745
+epoch 3300  clean testing loss: 0.36387529969215393
+epoch 3400  training loss: 0.008247757330536842
+epoch 3400  clean testing loss: 0.3538408577442169
+epoch 3500  training loss: 0.007629885338246822
+
+  3%|██▋                                                                           | 3495/100000 [00:52<24:57, 64.45it/s]
+epoch 3600  training loss: 0.009057474322617054
+epoch 3600  clean testing loss: 0.3463444411754608
+epoch 3700  training loss: 0.009398743510246277
+epoch 3700  clean testing loss: 0.3648361265659332
+epoch 3800  training loss: 0.008770476095378399
+epoch 3800  clean testing loss: 0.3590978980064392
+epoch 3900  training loss: 0.008025390096008778
+epoch 3900  clean testing loss: 0.4099469780921936
+epoch 4000  training loss: 0.012268139980733395
+epoch 4000  clean testing loss: 0.4729047417640686
+
+  4%|███▏                                                                          | 4068/100000 [01:05<35:16, 45.33it/s]
+epoch 4100  training loss: 0.011459432542324066
+
+  4%|███▎                                                                          | 4194/100000 [01:07<24:57, 63.98it/s]
+epoch 4200  training loss: 0.009336944669485092
+epoch 4200  clean testing loss: 0.40773776173591614
+epoch 4300  training loss: 0.008685522712767124
+
+  4%|███▎                                                                          | 4299/100000 [01:08<24:40, 64.64it/s]
+epoch 4400  training loss: 0.015876922756433487
+epoch 4400  clean testing loss: 0.5312822461128235
+epoch 4500  training loss: 0.01527594868093729
+epoch 4500  clean testing loss: 0.46071958541870117
+epoch 4600  training loss: 0.01562066562473774
+epoch 4600  clean testing loss: 0.3608012795448303
+epoch 4700  training loss: 0.010774997994303703
+
+  5%|███▋                                                                          | 4712/100000 [01:15<24:48, 64.02it/s]
+epoch 4800  training loss: 0.008227620273828506
+
+  5%|███▊                                                                          | 4845/100000 [01:17<24:38, 64.36it/s]
+epoch 4900  training loss: 0.007769132498651743
+
+  5%|███▉                                                                          | 4971/100000 [01:19<24:35, 64.40it/s]
+epoch 5000  training loss: 0.007404054049402475
+epoch 5000  clean testing loss: 0.3816912770271301
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 5100  training loss: 0.007625243626534939
+
+  5%|███▉                                                                          | 5097/100000 [01:21<24:33, 64.42it/s]
+epoch 5200  training loss: 0.0074528977274894714
+
+  5%|████                                                                          | 5195/100000 [01:22<24:20, 64.91it/s]
+epoch 5300  training loss: 0.008559483103454113
+epoch 5300  clean testing loss: 0.43020811676979065
+epoch 5400  training loss: 0.00940062664449215
+epoch 5400  clean testing loss: 0.5404313802719116
+epoch 5500  training loss: 0.0072459876537323
+epoch 5500  clean testing loss: 0.505111813545227
+epoch 5600  training loss: 0.007847044616937637
+epoch 5600  clean testing loss: 0.4708689749240875
+epoch 5700  training loss: 0.006756006274372339
+
+  6%|████▍                                                                         | 5713/100000 [01:30<24:50, 63.25it/s]
+epoch 5800  training loss: 0.008175700902938843
+
+  6%|████▌                                                                         | 5846/100000 [01:32<24:18, 64.56it/s]
+epoch 5900  training loss: 0.01669614017009735
+
+  6%|████▋                                                                         | 5972/100000 [01:34<24:08, 64.92it/s]
+epoch 6000  training loss: 0.01095735002309084
+epoch 6000  clean testing loss: 0.4633735418319702
+
+  6%|████▌                                                                       | 6014/100000 [01:36<1:29:11, 17.56it/s]
+epoch 6100  training loss: 0.0073023890145123005
+
+  6%|████▊                                                                         | 6147/100000 [01:38<24:11, 64.67it/s]
+epoch 6200  training loss: 0.007327165454626083
+
+  6%|████▉                                                                         | 6259/100000 [01:40<24:28, 63.81it/s]
+epoch 6300  training loss: 0.0077491938136518
+epoch 6300  clean testing loss: 0.44710731506347656
+epoch 6400  training loss: 0.00686578219756484
+epoch 6400  clean testing loss: 0.48228660225868225
+epoch 6500  training loss: 0.005830852314829826
+
+  7%|█████                                                                         | 6532/100000 [01:44<24:02, 64.80it/s]
+epoch 6600  training loss: 0.007078556809574366
+
+  7%|█████▏                                                                        | 6665/100000 [01:46<23:54, 65.05it/s]
+epoch 6700  training loss: 0.00811422523111105
+
+  7%|█████▎                                                                        | 6791/100000 [01:48<23:57, 64.86it/s]
+epoch 6800  training loss: 0.010758948512375355
+epoch 6800  clean testing loss: 0.5144783854484558
+epoch 6900  training loss: 0.0072252401150763035
+
+  7%|█████▍                                                                        | 6896/100000 [01:50<24:04, 64.45it/s]
+epoch 7000  training loss: 0.0075460877269506454
+epoch 7000  clean testing loss: 0.45930951833724976
+
+
+  7%|█████▌                                                                        | 7204/100000 [01:56<24:10, 63.95it/s]
+epoch 7100  training loss: 0.005111041013151407
+epoch 7100  clean testing loss: 0.48092180490493774
+epoch 7200  training loss: 0.006369440350681543
+epoch 7200  clean testing loss: 0.5028427243232727
+epoch 7300  training loss: 0.051242001354694366
+
+  7%|█████▋                                                                        | 7330/100000 [01:58<23:52, 64.70it/s]
+epoch 7400  training loss: 0.011005828157067299
+
+
+  8%|█████▉                                                                        | 7589/100000 [02:02<23:47, 64.73it/s]
+epoch 7500  training loss: 0.009402545168995857
+epoch 7500  clean testing loss: 0.560001790523529
+epoch 7600  training loss: 0.007640623953193426
+epoch 7600  clean testing loss: 0.5368771553039551
+epoch 7700  training loss: 0.014181938022375107
+
+  8%|██████                                                                        | 7722/100000 [02:04<24:02, 63.97it/s]
+epoch 7800  training loss: 0.010519860312342644
+
+  8%|██████                                                                        | 7848/100000 [02:06<24:00, 63.97it/s]
+epoch 7900  training loss: 0.009045649319887161
+
+
+  8%|██████▎                                                                       | 8107/100000 [02:10<24:01, 63.73it/s]
+epoch 8000  training loss: 0.0077998279593884945
+epoch 8000  clean testing loss: 0.5114661455154419
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 8100  training loss: 0.007991812191903591
+epoch 8100  clean testing loss: 0.5047432780265808
+epoch 8200  training loss: 0.008100791834294796
+
+  8%|██████▍                                                                       | 8198/100000 [02:12<23:39, 64.66it/s]
+epoch 8300  training loss: 0.010843921452760696
+epoch 8300  clean testing loss: 0.492379367351532
+epoch 8400  training loss: 0.009135620668530464
+epoch 8400  clean testing loss: 0.4982026517391205
+epoch 8500  training loss: 0.02003231644630432
+
+  9%|██████▋                                                                       | 8562/100000 [02:17<23:32, 64.72it/s]
+epoch 8600  training loss: 0.012933269143104553
+
+  9%|██████▊                                                                       | 8695/100000 [02:19<23:35, 64.52it/s]
+epoch 8700  training loss: 0.009541354142129421
+
+  9%|██████▉                                                                       | 8954/100000 [02:23<23:31, 64.51it/s]
+epoch 8800  training loss: 0.01200600154697895
+epoch 8800  clean testing loss: 0.4720582067966461
+epoch 8900  training loss: 0.007118215784430504
+epoch 8900  clean testing loss: 0.5252201557159424
+epoch 9000  training loss: 0.014124752953648567
+epoch 9000  clean testing loss: 0.534235954284668
+
+  9%|███████                                                                       | 9080/100000 [02:25<23:30, 64.48it/s]
+epoch 9100  training loss: 0.00820710975676775
+epoch 9100  clean testing loss: 0.5002884864807129
+epoch 9200  training loss: 0.007025120779871941
+
+
+  9%|███████▏                                                                      | 9269/100000 [02:28<23:22, 64.70it/s]
+epoch 9300  training loss: 0.01284664124250412
+
+
+ 10%|███████▊                                                                     | 10102/100000 [02:42<23:32, 63.64it/s]
+epoch 9400  training loss: 0.00809895247220993
+epoch 9400  clean testing loss: 0.4708205759525299
+epoch 9500  training loss: 0.008573262952268124
+epoch 9500  clean testing loss: 0.5149051547050476
+epoch 9600  training loss: 0.006334991194307804
+epoch 9600  clean testing loss: 0.5114956498146057
+epoch 9700  training loss: 0.005720886401832104
+epoch 9700  clean testing loss: 0.44978460669517517
+epoch 9800  training loss: 0.0052787126041948795
+epoch 9800  clean testing loss: 0.44806984066963196
+epoch 9900  training loss: 0.006570187862962484
+epoch 9900  clean testing loss: 0.4663327634334564
+epoch 10000  training loss: 0.015568537637591362
+epoch 10000  clean testing loss: 0.5002107620239258
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 10100  training loss: 0.010816737078130245
+epoch 10100  clean testing loss: 0.39607131481170654
+epoch 10200  training loss: 0.009720822796225548
+
+ 10%|███████▉                                                                     | 10235/100000 [02:44<23:09, 64.60it/s]
+epoch 10300  training loss: 0.008417113684117794
+
+
+ 11%|████████▏                                                                    | 10557/100000 [02:49<22:58, 64.91it/s]
+epoch 10400  training loss: 0.0057729086838662624
+epoch 10400  clean testing loss: 0.4728721082210541
+epoch 10500  training loss: 0.007904516533017159
+epoch 10500  clean testing loss: 0.5020948052406311
+epoch 10600  training loss: 0.0061376080848276615
+epoch 10600  clean testing loss: 0.48660707473754883
+epoch 10700  training loss: 0.006414579693228006
+
+
+ 11%|████████▏                                                                    | 10697/100000 [02:51<22:52, 65.07it/s]
+epoch 10800  training loss: 0.006805484648793936
+epoch 10800  clean testing loss: 0.47575506567955017
+epoch 10900  training loss: 0.00791612733155489
+
+ 11%|████████▍                                                                    | 10977/100000 [03:00<24:56, 59.50it/s]
+epoch 11000  training loss: 0.006165117025375366
+epoch 11000  clean testing loss: 0.4890753924846649
+
+ 11%|████████▌                                                                    | 11110/100000 [03:02<22:51, 64.80it/s]
+epoch 11100  training loss: 0.006922871805727482
+
+ 11%|████████▋                                                                    | 11236/100000 [03:04<22:45, 65.01it/s]
+epoch 11200  training loss: 0.006959447171539068
+epoch 11200  clean testing loss: 0.4737440347671509
+epoch 11300  training loss: 0.00510851014405489
+
+ 11%|████████▊                                                                    | 11369/100000 [03:06<22:44, 64.96it/s]
+epoch 11400  training loss: 0.00795921590179205
+
+ 11%|████████▊                                                                    | 11495/100000 [03:08<22:40, 65.04it/s]
+epoch 11500  training loss: 0.005854565184563398
+
+ 12%|████████▉                                                                    | 11628/100000 [03:10<23:06, 63.75it/s]
+epoch 11600  training loss: 0.0039665186777710915
+epoch 11600  clean testing loss: 0.5076446533203125
+epoch 11700  training loss: 0.006775448098778725
+
+ 12%|█████████                                                                    | 11698/100000 [03:11<22:41, 64.83it/s]
+epoch 11800  training loss: 0.0053864032961428165
+epoch 11800  clean testing loss: 0.5047179460525513
+epoch 11900  training loss: 0.005012901965528727
+epoch 11900  clean testing loss: 0.4547671377658844
+epoch 12000  training loss: 0.005229545757174492
+epoch 12000  clean testing loss: 0.5017219185829163
+
+
+ 12%|█████████▍                                                                   | 12209/100000 [03:19<22:39, 64.58it/s]
+epoch 12100  training loss: 0.012970313429832458
+
+ 12%|█████████▌                                                                   | 12342/100000 [03:21<22:35, 64.66it/s]
+epoch 12200  training loss: 0.005982869304716587
+epoch 12200  clean testing loss: 0.4686850607395172
+epoch 12300  training loss: 0.003968029748648405
+epoch 12300  clean testing loss: 0.46194830536842346
+epoch 12400  training loss: 0.008277272805571556
+
+ 12%|█████████▌                                                                   | 12468/100000 [03:23<22:34, 64.60it/s]
+epoch 12500  training loss: 0.005938583519309759
+
+ 13%|█████████▋                                                                   | 12594/100000 [03:25<22:40, 64.25it/s]
+epoch 12600  training loss: 0.0038314973935484886
+epoch 12600  clean testing loss: 0.5132777690887451
+epoch 12700  training loss: 0.002163527300581336
+
+ 13%|█████████▊                                                                   | 12727/100000 [03:27<22:28, 64.71it/s]
+epoch 12800  training loss: 0.005069106817245483
+
+ 13%|█████████▉                                                                   | 12853/100000 [03:29<22:39, 64.12it/s]
+epoch 12900  training loss: 0.00341425952501595
+
+ 13%|█████████▉                                                                   | 12986/100000 [03:31<22:27, 64.56it/s]
+epoch 13000  training loss: 0.003687058575451374
+epoch 13000  clean testing loss: 0.5291399359703064
+
+ 13%|██████████                                                                   | 13112/100000 [03:33<22:30, 64.33it/s]
+epoch 13100  training loss: 0.004875991493463516
+epoch 13100  clean testing loss: 0.5342892408370972
+epoch 13200  training loss: 0.004037664737552404
+
+ 13%|██████████▏                                                                  | 13245/100000 [03:35<22:31, 64.18it/s]
+epoch 13300  training loss: 0.008455260656774044
+
+ 13%|██████████▎                                                                  | 13371/100000 [03:37<22:17, 64.78it/s]
+epoch 13400  training loss: 0.00545908696949482
+
+ 13%|██████████▍                                                                  | 13497/100000 [03:39<22:27, 64.18it/s]
+epoch 13500  training loss: 0.00583292031660676
+epoch 13500  clean testing loss: 0.4808531701564789
+epoch 13600  training loss: 0.010576939210295677
+
+ 14%|██████████▍                                                                  | 13630/100000 [03:41<22:23, 64.28it/s]
+epoch 13700  training loss: 0.007766879163682461
+
+ 14%|██████████▌                                                                  | 13756/100000 [03:43<22:20, 64.35it/s]
+epoch 13800  training loss: 0.005429426208138466
+
+ 14%|██████████▋                                                                  | 13889/100000 [03:45<22:14, 64.54it/s]
+epoch 13900  training loss: 0.005429538432508707
+
+ 14%|██████████▊                                                                  | 14015/100000 [03:47<22:24, 63.93it/s]
+epoch 14000  training loss: 0.0054755848832428455
+epoch 14000  clean testing loss: 0.5365872979164124
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 14100  training loss: 0.007441487163305283
+
+ 14%|██████████▊                                                                  | 14099/100000 [03:48<22:06, 64.78it/s]
+epoch 14200  training loss: 0.010299929417669773
+
+ 14%|██████████▉                                                                  | 14274/100000 [03:51<22:01, 64.86it/s]
+epoch 14300  training loss: 0.0053601800464093685
+epoch 14300  clean testing loss: 0.5006389617919922
+epoch 14400  training loss: 0.005100460723042488
+
+ 14%|███████████                                                                  | 14400/100000 [03:53<22:05, 64.60it/s]
+epoch 14500  training loss: 0.006986382883042097
+epoch 14500  clean testing loss: 0.5138905048370361
+epoch 14600  training loss: 0.00525166979059577
+epoch 14600  clean testing loss: 0.5167223811149597
+epoch 14700  training loss: 0.00466823298484087
+
+ 15%|███████████▌                                                                 | 15051/100000 [04:03<22:10, 63.84it/s]
+epoch 14800  training loss: 0.007307534106075764
+epoch 14800  clean testing loss: 0.5374650359153748
+epoch 14900  training loss: 0.004807611461728811
+epoch 14900  clean testing loss: 0.4935108721256256
+epoch 15000  training loss: 0.005091104190796614
+epoch 15000  clean testing loss: 0.499615341424942
+
+ 15%|███████████▋                                                                 | 15177/100000 [04:05<21:51, 64.68it/s]
+epoch 15100  training loss: 0.0049293152987957
+
+ 15%|███████████▊                                                                 | 15310/100000 [04:07<21:48, 64.70it/s]
+epoch 15200  training loss: 0.005211294628679752
+epoch 15200  clean testing loss: 0.44991904497146606
+epoch 15300  training loss: 0.005580560304224491
+
+ 15%|███████████▉                                                                 | 15436/100000 [04:09<21:47, 64.67it/s]
+epoch 15400  training loss: 0.004979026969522238
+
+ 16%|███████████▉                                                                 | 15569/100000 [04:11<21:43, 64.79it/s]
+epoch 15500  training loss: 0.004167804028838873
+
+ 16%|████████████                                                                 | 15695/100000 [04:13<22:01, 63.81it/s]
+epoch 15600  training loss: 0.004237293731421232
+epoch 15600  clean testing loss: 0.5389946699142456
+epoch 15700  training loss: 0.004919632337987423
+
+ 16%|████████████▍                                                                | 16080/100000 [04:19<21:47, 64.21it/s]
+epoch 15800  training loss: 0.004919553175568581
+epoch 15800  clean testing loss: 0.5010682940483093
+epoch 15900  training loss: 0.0067378077656030655
+epoch 15900  clean testing loss: 0.5087880492210388
+epoch 16000  training loss: 0.004518064670264721
+epoch 16000  clean testing loss: 0.5118319392204285
+
+ 16%|████████████▍                                                                | 16094/100000 [04:19<21:52, 63.92it/s]
+epoch 16100  training loss: 0.004125154111534357
+
+ 16%|████████████▋                                                                | 16409/100000 [04:24<21:47, 63.95it/s]
+epoch 16200  training loss: 0.005261263344436884
+epoch 16200  clean testing loss: 0.5314847230911255
+epoch 16300  training loss: 0.004732368979603052
+
+ 17%|████████████▋                                                                | 16535/100000 [04:26<21:45, 63.91it/s]
+epoch 16400  training loss: 0.004561963025480509
+epoch 16400  clean testing loss: 0.5237188339233398
+epoch 16500  training loss: 0.004499458707869053
+
+ 17%|████████████▊                                                                | 16661/100000 [04:28<21:58, 63.21it/s]
+epoch 16600  training loss: 0.0038995216600596905
+
+ 17%|████████████▉                                                                | 16794/100000 [04:30<21:31, 64.44it/s]
+epoch 16700  training loss: 0.005107786040753126
+
+ 17%|█████████████                                                                | 16920/100000 [04:32<21:24, 64.70it/s]
+epoch 16800  training loss: 0.005155706312507391
+
+ 17%|█████████████▏                                                               | 17046/100000 [04:34<21:26, 64.46it/s]
+epoch 16900  training loss: 0.004617651458829641
+epoch 16900  clean testing loss: 0.48890870809555054
+epoch 17000  training loss: 0.004420907236635685
+epoch 17000  clean testing loss: 0.5069419741630554
+
+ 17%|█████████████▏                                                               | 17179/100000 [04:36<21:18, 64.79it/s]
+epoch 17100  training loss: 0.005424663424491882
+epoch 17100  clean testing loss: 0.5296862721443176
+epoch 17200  training loss: 0.0031215783674269915
+
+
+ 17%|█████████████▍                                                               | 17396/100000 [04:40<21:22, 64.40it/s]
+epoch 17300  training loss: 0.00476197712123394
+epoch 17300  clean testing loss: 0.491017609834671
+epoch 17400  training loss: 0.004639642778784037
+
+ 18%|█████████████▋                                                               | 17697/100000 [04:44<21:20, 64.26it/s]
+epoch 17500  training loss: 0.0046366313472390175
+epoch 17500  clean testing loss: 0.5091673731803894
+epoch 17600  training loss: 0.005278543569147587
+epoch 17600  clean testing loss: 0.5016369223594666
+epoch 17700  training loss: 0.003859714139252901
+
+ 18%|█████████████▋                                                               | 17823/100000 [04:46<21:11, 64.62it/s]
+epoch 17800  training loss: 0.004164151847362518
+
+ 18%|█████████████▊                                                               | 17956/100000 [04:48<21:05, 64.82it/s]
+epoch 17900  training loss: 0.004316477570682764
+
+ 18%|█████████████▊                                                               | 18000/100000 [04:49<19:43, 69.29it/s]
+epoch 18000  training loss: 0.0055159395560622215
+
+ 18%|█████████████▉                                                               | 18112/100000 [04:52<21:46, 62.68it/s]
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 18100  training loss: 0.006302359979599714
+
+ 18%|██████████████                                                               | 18238/100000 [04:54<21:09, 64.41it/s]
+epoch 18200  training loss: 0.003649297636002302
+
+ 18%|██████████████▏                                                              | 18364/100000 [04:56<20:57, 64.93it/s]
+epoch 18300  training loss: 0.005607231054455042
+
+ 18%|██████████████▏                                                              | 18497/100000 [04:58<21:07, 64.31it/s]
+epoch 18400  training loss: 0.004196100868284702
+epoch 18400  clean testing loss: 0.5097779631614685
+epoch 18500  training loss: 0.005265067797154188
+epoch 18500  clean testing loss: 0.5322670340538025
+epoch 18600  training loss: 0.0029415821190923452
+epoch 18600  clean testing loss: 0.5074993968009949
+epoch 18700  training loss: 0.006630026735365391
+epoch 18700  clean testing loss: 0.5174760818481445
+epoch 18800  training loss: 0.005165900103747845
+epoch 18800  clean testing loss: 0.498752623796463
+epoch 18900  training loss: 0.0034171983134001493
+epoch 18900  clean testing loss: 0.5114830732345581
+epoch 19000  training loss: 0.00583251565694809
+epoch 19000  clean testing loss: 0.4866197109222412
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 19100  training loss: 0.003407649928703904
+
+
+ 19%|██████████████▊                                                              | 19239/100000 [05:10<20:59, 64.15it/s]
+epoch 19200  training loss: 0.00442696874961257
+
+ 19%|██████████████▉                                                              | 19358/100000 [05:12<20:47, 64.65it/s]
+epoch 19300  training loss: 0.0038144041318446398
+
+ 19%|███████████████                                                              | 19498/100000 [05:14<20:48, 64.49it/s]
+epoch 19400  training loss: 0.0038681558798998594
+epoch 19400  clean testing loss: 0.5297753214836121
+epoch 19500  training loss: 0.005014349240809679
+
+ 20%|███████████████                                                              | 19596/100000 [05:16<20:39, 64.89it/s]
+epoch 19600  training loss: 0.0036037866957485676
+
+ 20%|███████████████▏                                                             | 19757/100000 [05:18<20:41, 64.64it/s]
+epoch 19700  training loss: 0.0040237694047391415
+
+ 20%|███████████████▏                                                             | 19799/100000 [05:19<20:35, 64.90it/s]
+epoch 19800  training loss: 0.0024734914768487215
+
+ 20%|███████████████▍                                                             | 19995/100000 [05:22<21:07, 63.13it/s]
+epoch 19900  training loss: 0.003226713975891471
+epoch 19900  clean testing loss: 0.5060185194015503
+epoch 20000  training loss: 0.003179212799295783
+
+ 20%|███████████████▍                                                             | 20128/100000 [05:27<20:49, 63.93it/s]
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 20100  training loss: 0.009250271134078503
+
+ 20%|███████████████▌                                                             | 20254/100000 [05:28<20:40, 64.28it/s]
+epoch 20200  training loss: 0.005094988737255335
+
+ 20%|███████████████▋                                                             | 20387/100000 [05:31<20:36, 64.39it/s]
+epoch 20300  training loss: 0.0041787284426391125
+
+ 21%|███████████████▊                                                             | 20513/100000 [05:33<20:43, 63.90it/s]
+epoch 20400  training loss: 0.003776177763938904
+epoch 20400  clean testing loss: 0.5552839636802673
+epoch 20500  training loss: 0.006067297421395779
+
+ 21%|███████████████▉                                                             | 20639/100000 [05:34<20:29, 64.54it/s]
+epoch 20600  training loss: 0.00873999111354351
+
+ 21%|███████████████▉                                                             | 20772/100000 [05:37<20:17, 65.06it/s]
+epoch 20700  training loss: 0.0058828555047512054
+
+ 21%|████████████████                                                             | 20898/100000 [05:38<20:17, 64.95it/s]
+epoch 20800  training loss: 0.010327475145459175
+epoch 20800  clean testing loss: 0.5569542050361633
+epoch 20900  training loss: 0.006884530186653137
+
+ 21%|████████████████▏                                                            | 21087/100000 [05:43<21:24, 61.46it/s]
+epoch 21000  training loss: 0.0037812727969139814
+epoch 21000  clean testing loss: 0.525911271572113
+
+ 21%|████████████████▎                                                            | 21199/100000 [05:44<20:29, 64.10it/s]
+epoch 21100  training loss: 0.0053816321305930614
+epoch 21100  clean testing loss: 0.5671071410179138
+epoch 21200  training loss: 0.00674357870593667
+
+ 21%|████████████████▍                                                            | 21339/100000 [05:47<20:12, 64.88it/s]
+epoch 21300  training loss: 0.004571925383061171
+
+ 21%|████████████████▌                                                            | 21472/100000 [05:49<20:16, 64.56it/s]
+epoch 21400  training loss: 0.00468670018017292
+
+ 22%|████████████████▋                                                            | 21598/100000 [05:51<20:10, 64.75it/s]
+epoch 21500  training loss: 0.004473491106182337
+
+ 22%|████████████████▋                                                            | 21696/100000 [05:52<20:12, 64.58it/s]
+epoch 21600  training loss: 0.007556998636573553
+epoch 21600  clean testing loss: 0.5385456085205078
+epoch 21700  training loss: 0.005468692164868116
+
+ 22%|████████████████▊                                                            | 21857/100000 [05:55<20:20, 64.03it/s]
+epoch 21800  training loss: 0.004394508898258209
+epoch 21800  clean testing loss: 0.5419109463691711
+epoch 21900  training loss: 0.003934621810913086
+
+ 22%|████████████████▉                                                            | 21990/100000 [05:57<20:02, 64.86it/s]
+epoch 22000  training loss: 0.005343726836144924
+epoch 22000  clean testing loss: 0.5497329831123352
+
+ 22%|████████████████▉                                                            | 22025/100000 [05:59<47:40, 27.26it/s]
+epoch 22100  training loss: 0.004823323339223862
+
+ 22%|█████████████████                                                            | 22151/100000 [06:01<20:14, 64.10it/s]
+epoch 22200  training loss: 0.006181851029396057
+
+ 22%|█████████████████▏                                                           | 22284/100000 [06:03<20:15, 63.93it/s]
+epoch 22300  training loss: 0.004331441596150398
+epoch 22300  clean testing loss: 0.5045652389526367
+epoch 22400  training loss: 0.0053323120810091496
+
+ 22%|█████████████████▎                                                           | 22410/100000 [06:05<20:07, 64.27it/s]
+epoch 22500  training loss: 0.005089621525257826
+
+ 22%|█████████████████▎                                                           | 22494/100000 [06:06<19:51, 65.05it/s]
+epoch 22600  training loss: 0.00567243155092001
+
+ 23%|█████████████████▍                                                           | 22669/100000 [06:09<20:06, 64.09it/s]
+epoch 22700  training loss: 0.006843227427452803
+
+ 23%|█████████████████▌                                                           | 22795/100000 [06:11<19:57, 64.45it/s]
+epoch 22800  training loss: 0.005144805181771517
+epoch 22800  clean testing loss: 0.5209680795669556
+epoch 22900  training loss: 0.003634923603385687
+
+ 23%|█████████████████▋                                                           | 22928/100000 [06:13<19:54, 64.54it/s]
+epoch 23000  training loss: 0.004118028096854687
+epoch 23000  clean testing loss: 0.5073828101158142
+
+ 23%|█████████████████▊                                                           | 23061/100000 [06:15<19:54, 64.40it/s]
+epoch 23100  training loss: 0.003872284898534417
+
+ 23%|█████████████████▊                                                           | 23187/100000 [06:17<19:42, 64.98it/s]
+epoch 23200  training loss: 0.005800973158329725
+epoch 23200  clean testing loss: 0.5203331112861633
+epoch 23300  training loss: 0.004418144002556801
+
+ 23%|█████████████████▉                                                           | 23299/100000 [06:18<19:41, 64.91it/s]
+epoch 23400  training loss: 0.005296624731272459
+
+ 23%|██████████████████                                                           | 23446/100000 [06:21<19:45, 64.60it/s]
+epoch 23500  training loss: 0.006069087889045477
+
+ 24%|██████████████████▏                                                          | 23579/100000 [06:23<19:41, 64.69it/s]
+epoch 23600  training loss: 0.00424087792634964
+
+ 24%|██████████████████▏                                                          | 23698/100000 [06:25<19:52, 64.00it/s]
+epoch 23700  training loss: 0.005522421561181545
+epoch 23700  clean testing loss: 0.500851571559906
+epoch 23800  training loss: 0.0042724222876131535
+
+ 24%|██████████████████▎                                                          | 23831/100000 [06:27<19:45, 64.27it/s]
+epoch 23900  training loss: 0.006099514663219452
+
+ 24%|██████████████████▍                                                          | 23957/100000 [06:29<20:03, 63.16it/s]
+epoch 24000  training loss: 0.005236921366304159
+epoch 24000  clean testing loss: 0.507425844669342
+
+ 24%|██████████████████▌                                                          | 24090/100000 [06:31<19:36, 64.49it/s]
+epoch 24100  training loss: 0.006418168544769287
+epoch 24100  clean testing loss: 0.5035947561264038
+epoch 24200  training loss: 0.0056207990273833275
+
+ 24%|██████████████████▋                                                          | 24195/100000 [06:32<19:24, 65.10it/s]
+epoch 24300  training loss: 0.005865380167961121
+epoch 24300  clean testing loss: 0.5157898664474487
+epoch 24400  training loss: 0.0041657183319330215
+
+ 24%|██████████████████▊                                                          | 24475/100000 [06:37<19:31, 64.45it/s]
+epoch 24500  training loss: 0.0037538069300353527
+
+ 25%|██████████████████▉                                                          | 24601/100000 [06:39<19:31, 64.37it/s]
+epoch 24600  training loss: 0.005312253255397081
+epoch 24600  clean testing loss: 0.519787609577179
+epoch 24700  training loss: 0.0045552933588624
+
+ 25%|███████████████████                                                          | 24727/100000 [06:41<19:52, 63.11it/s]
+epoch 24800  training loss: 0.004611775279045105
+
+ 25%|███████████████████                                                          | 24797/100000 [06:42<19:25, 64.50it/s]
+epoch 24900  training loss: 0.004923154134303331
+epoch 24900  clean testing loss: 0.5140364170074463
+epoch 25000  training loss: 0.005147148389369249
+epoch 25000  clean testing loss: 0.5197893977165222
+
+ 25%|███████████████████▎                                                         | 25092/100000 [06:49<20:52, 59.81it/s]
+epoch 25100  training loss: 0.003728617448359728
+epoch 25100  clean testing loss: 0.5052714347839355
+epoch 25200  training loss: 0.003458705497905612
+
+ 25%|███████████████████▍                                                         | 25225/100000 [06:51<19:23, 64.24it/s]
+epoch 25300  training loss: 0.003103986382484436
+
+ 25%|███████████████████▍                                                         | 25295/100000 [06:52<19:18, 64.49it/s]
+epoch 25400  training loss: 0.003482123138383031
+epoch 25400  clean testing loss: 0.5026598572731018
+epoch 25500  training loss: 0.004255646839737892
+
+ 25%|███████████████████▋                                                         | 25491/100000 [06:56<19:21, 64.14it/s]
+epoch 25600  training loss: 0.002973511116579175
+
+ 26%|███████████████████▋                                                         | 25617/100000 [06:58<19:29, 63.59it/s]
+epoch 25700  training loss: 0.00520744826644659
+
+ 26%|███████████████████▊                                                         | 25750/100000 [07:00<19:15, 64.28it/s]
+epoch 25800  training loss: 0.0042314897291362286
+epoch 25800  clean testing loss: 0.5109232068061829
+epoch 25900  training loss: 0.005427247378975153
+
+ 26%|███████████████████▉                                                         | 25939/100000 [07:03<19:05, 64.67it/s]
+epoch 26000  training loss: 0.003784679342061281
+epoch 26000  clean testing loss: 0.5416738986968994
+
+
+ 26%|████████████████████▏                                                        | 26198/100000 [07:07<19:06, 64.38it/s]
+epoch 26100  training loss: 0.004137107171118259
+
+ 26%|████████████████████▎                                                        | 26331/100000 [07:09<19:01, 64.56it/s]
+epoch 26200  training loss: 0.0049347770400345325
+epoch 26200  clean testing loss: 0.5374424457550049
+epoch 26300  training loss: 0.004468332044780254
+
+ 26%|████████████████████▎                                                        | 26457/100000 [07:11<18:54, 64.81it/s]
+epoch 26400  training loss: 0.006475385744124651
+
+ 26%|████████████████████▍                                                        | 26499/100000 [07:11<18:53, 64.86it/s]
+epoch 26500  training loss: 0.0029660360887646675
+
+ 27%|████████████████████▌                                                        | 26688/100000 [07:14<19:01, 64.24it/s]
+epoch 26600  training loss: 0.0038571981713175774
+epoch 26600  clean testing loss: 0.5214241147041321
+epoch 26700  training loss: 0.004060535691678524
+
+ 27%|████████████████████▋                                                        | 26800/100000 [07:16<18:52, 64.66it/s]
+epoch 26800  training loss: 0.0034048317465931177
+
+ 27%|████████████████████▊                                                        | 26975/100000 [07:19<18:47, 64.76it/s]
+epoch 26900  training loss: 0.003361997427418828
+epoch 26900  clean testing loss: 0.5458390116691589
+epoch 27000  training loss: 0.007016459479928017
+epoch 27000  clean testing loss: 0.5556157827377319
+
+ 27%|████████████████████▊                                                        | 27108/100000 [07:21<18:50, 64.50it/s]
+epoch 27100  training loss: 0.005028166808187962
+
+ 27%|████████████████████▉                                                        | 27234/100000 [07:23<18:44, 64.71it/s]
+epoch 27200  training loss: 0.00566293578594923
+
+ 27%|█████████████████████                                                        | 27367/100000 [07:25<18:50, 64.27it/s]
+epoch 27300  training loss: 0.004845554009079933
+epoch 27300  clean testing loss: 0.5762864351272583
+epoch 27400  training loss: 0.003786450019106269
+
+ 27%|█████████████████████                                                        | 27395/100000 [07:25<18:41, 64.75it/s]
+epoch 27500  training loss: 0.0032239919528365135
+
+ 28%|█████████████████████▎                                                       | 27626/100000 [07:29<18:45, 64.31it/s]
+epoch 27600  training loss: 0.004413323476910591
+
+ 28%|█████████████████████▎                                                       | 27752/100000 [07:31<18:45, 64.21it/s]
+epoch 27700  training loss: 0.006845069583505392
+epoch 27700  clean testing loss: 0.6177387237548828
+epoch 27800  training loss: 0.004027829505503178
+
+ 28%|█████████████████████▍                                                       | 27913/100000 [07:33<18:42, 64.22it/s]
+epoch 27900  training loss: 0.003990011755377054
+
+ 28%|█████████████████████▌                                                       | 28011/100000 [07:35<36:12, 33.13it/s]
+epoch 28000  training loss: 0.0050194780342280865
+epoch 28000  clean testing loss: 0.6134203672409058
+
+ 28%|█████████████████████▋                                                       | 28144/100000 [07:37<18:33, 64.52it/s]
+epoch 28100  training loss: 0.003998939413577318
+
+ 28%|█████████████████████▊                                                       | 28270/100000 [07:39<18:44, 63.81it/s]
+epoch 28200  training loss: 0.005194670055061579
+
+ 28%|█████████████████████▊                                                       | 28396/100000 [07:41<18:26, 64.74it/s]
+epoch 28300  training loss: 0.004978687036782503
+epoch 28300  clean testing loss: 0.6123251914978027
+epoch 28400  training loss: 0.004988506902009249
+
+ 29%|█████████████████████▉                                                       | 28529/100000 [07:43<18:30, 64.34it/s]
+epoch 28500  training loss: 0.003408123506233096
+
+ 29%|██████████████████████                                                       | 28592/100000 [07:44<18:34, 64.05it/s]
+epoch 28600  training loss: 0.003985897172242403
+epoch 28600  clean testing loss: 0.6152687072753906
+epoch 28700  training loss: 0.005441734567284584
+epoch 28700  clean testing loss: 0.6177190542221069
+epoch 28800  training loss: 0.0019301129505038261
+epoch 28800  clean testing loss: 0.606828510761261
+epoch 28900  training loss: 0.0030140152666717768
+epoch 28900  clean testing loss: 0.6077725291252136
+epoch 29000  training loss: 0.0026492879260331392
+epoch 29000  clean testing loss: 0.6175417304039001
+
+ 29%|██████████████████████▍                                                      | 29126/100000 [07:54<18:38, 63.38it/s]
+epoch 29100  training loss: 0.0019462753552943468
+epoch 29100  clean testing loss: 0.6057239770889282
+epoch 29200  training loss: 0.0042915488593280315
+
+ 29%|██████████████████████▌                                                      | 29224/100000 [07:56<18:19, 64.38it/s]
+epoch 29300  training loss: 0.005194457713514566
+
+ 29%|██████████████████████▌                                                      | 29357/100000 [07:58<18:12, 64.65it/s]
+epoch 29400  training loss: 0.0031514340080320835
+
+
+ 30%|██████████████████████▉                                                      | 29812/100000 [08:05<18:10, 64.37it/s]
+epoch 29500  training loss: 0.0022625066339969635
+epoch 29500  clean testing loss: 0.5783530473709106
+epoch 29600  training loss: 0.002523059258237481
+epoch 29600  clean testing loss: 0.5933248400688171
+epoch 29700  training loss: 0.0030427223537117243
+epoch 29700  clean testing loss: 0.5840451121330261
+epoch 29800  training loss: 0.002722194418311119
+
+ 30%|███████████████████████                                                      | 29924/100000 [08:07<18:10, 64.28it/s]
+epoch 29900  training loss: 0.009143835864961147
+
+ 30%|███████████████████████▏                                                     | 30071/100000 [08:17<29:30, 39.50it/s]
+epoch 30000  training loss: 0.006175275892019272
+epoch 30000  clean testing loss: 0.563473641872406
+
+ 30%|███████████████████████▎                                                     | 30197/100000 [08:19<17:58, 64.75it/s]
+epoch 30100  training loss: 0.0023802639916539192
+epoch 30100  clean testing loss: 0.5835577249526978
+epoch 30200  training loss: 0.006693088915199041
+
+ 30%|███████████████████████▎                                                     | 30330/100000 [08:21<17:53, 64.89it/s]
+epoch 30300  training loss: 0.003911090549081564
+
+ 30%|███████████████████████▍                                                     | 30463/100000 [08:23<17:56, 64.60it/s]
+epoch 30400  training loss: 0.005709442310035229
+
+ 31%|███████████████████████▌                                                     | 30589/100000 [08:25<17:46, 65.10it/s]
+epoch 30500  training loss: 0.0038855448365211487
+epoch 30500  clean testing loss: 0.5861730575561523
+epoch 30600  training loss: 0.004539805464446545
+
+ 31%|███████████████████████▋                                                     | 30722/100000 [08:27<17:57, 64.30it/s]
+epoch 30700  training loss: 0.004326328635215759
+
+ 31%|███████████████████████▊                                                     | 30848/100000 [08:29<17:49, 64.68it/s]
+epoch 30800  training loss: 0.0035353987477719784
+
+ 31%|███████████████████████▊                                                     | 30981/100000 [08:31<17:40, 65.10it/s]
+epoch 30900  training loss: 0.0035703235771507025
+
+ 31%|███████████████████████▉                                                     | 31107/100000 [08:33<17:52, 64.24it/s]
+epoch 31000  training loss: 0.003532893257215619
+epoch 31000  clean testing loss: 0.560569167137146
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 31100  training loss: 0.0038125046994537115
+
+ 31%|████████████████████████▎                                                    | 31499/100000 [08:39<17:52, 63.88it/s]
+epoch 31200  training loss: 0.003293403657153249
+epoch 31200  clean testing loss: 0.5688731074333191
+epoch 31300  training loss: 0.004708285443484783
+epoch 31300  clean testing loss: 0.551272451877594
+epoch 31400  training loss: 0.003613939741626382
+epoch 31400  clean testing loss: 0.5510321259498596
+epoch 31500  training loss: 0.0033375124912708998
+
+ 32%|████████████████████████▎                                                    | 31625/100000 [08:41<17:36, 64.73it/s]
+epoch 31600  training loss: 0.00447368947789073
+
+ 32%|████████████████████████▍                                                    | 31695/100000 [08:42<17:45, 64.13it/s]
+epoch 31700  training loss: 0.003034174907952547
+epoch 31700  clean testing loss: 0.578491747379303
+epoch 31800  training loss: 0.003579817246645689
+epoch 31800  clean testing loss: 0.591094970703125
+epoch 31900  training loss: 0.002825420815497637
+
+ 32%|████████████████████████▋                                                    | 31982/100000 [08:47<17:24, 65.10it/s]
+epoch 32000  training loss: 0.0029791221022605896
+epoch 32000  clean testing loss: 0.5576932430267334
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 32100  training loss: 0.0038054143078625202
+
+ 32%|████████████████████████▋                                                    | 32115/100000 [08:49<17:27, 64.80it/s]
+epoch 32200  training loss: 0.003221178660169244
+
+ 32%|████████████████████████▊                                                    | 32241/100000 [08:51<17:27, 64.69it/s]
+epoch 32300  training loss: 0.0036255591548979282
+
+ 32%|████████████████████████▉                                                    | 32374/100000 [08:53<17:25, 64.71it/s]
+epoch 32400  training loss: 0.004931507632136345
+epoch 32400  clean testing loss: 0.568612277507782
+epoch 32500  training loss: 0.0025133471935987473
+
+ 32%|█████████████████████████                                                    | 32500/100000 [08:55<17:25, 64.59it/s]
+epoch 32600  training loss: 0.002574244048446417
+
+ 33%|█████████████████████████▏                                                   | 32633/100000 [08:57<17:21, 64.71it/s]
+epoch 32700  training loss: 0.004026690497994423
+
+ 33%|█████████████████████████▏                                                   | 32759/100000 [08:59<17:15, 64.93it/s]
+epoch 32800  training loss: 0.004332098178565502
+
+ 33%|█████████████████████████▎                                                   | 32892/100000 [09:01<17:12, 64.98it/s]
+epoch 32900  training loss: 0.0036667627282440662
+epoch 32900  clean testing loss: 0.5580880045890808
+epoch 33000  training loss: 0.004021284636110067
+epoch 33000  clean testing loss: 0.5426524877548218
+
+ 33%|█████████████████████████▎                                                   | 32899/100000 [09:01<17:19, 64.55it/s]
+epoch 33100  training loss: 0.0027006228920072317
+
+ 33%|█████████████████████████▍                                                   | 33095/100000 [09:04<17:46, 62.76it/s]
+epoch 33200  training loss: 0.002470029518008232
+
+ 33%|█████████████████████████▌                                                   | 33256/100000 [09:07<17:11, 64.73it/s]
+epoch 33300  training loss: 0.005328779108822346
+
+ 33%|█████████████████████████▋                                                   | 33382/100000 [09:09<17:06, 64.87it/s]
+epoch 33400  training loss: 0.005267552100121975
+epoch 33400  clean testing loss: 0.5469117760658264
+epoch 33500  training loss: 0.002436382230371237
+
+ 34%|█████████████████████████▊                                                   | 33515/100000 [09:11<17:06, 64.75it/s]
+epoch 33600  training loss: 0.0028996681794524193
+
+ 34%|█████████████████████████▉                                                   | 33641/100000 [09:13<17:25, 63.45it/s]
+epoch 33700  training loss: 0.002690075198188424
+
+ 34%|█████████████████████████▉                                                   | 33697/100000 [09:14<17:16, 63.95it/s]
+epoch 33800  training loss: 0.004408522974699736
+epoch 33800  clean testing loss: 0.5491312742233276
+epoch 33900  training loss: 0.004276731982827187
+epoch 33900  clean testing loss: 0.5400106906890869
+epoch 34000  training loss: 0.005159380380064249
+epoch 34000  clean testing loss: 0.5437636375427246
+
+ 34%|█████████████████████████▌                                                 | 34026/100000 [09:25<1:55:20,  9.53it/s]
+epoch 34100  training loss: 0.00516765471547842
+
+ 34%|██████████████████████████▎                                                  | 34159/100000 [09:27<17:04, 64.29it/s]
+epoch 34200  training loss: 0.003770541399717331
+
+ 34%|██████████████████████████▍                                                  | 34285/100000 [09:29<16:53, 64.83it/s]
+epoch 34300  training loss: 0.004187014885246754
+
+ 34%|██████████████████████████▍                                                  | 34299/100000 [09:29<16:49, 65.06it/s]
+epoch 34400  training loss: 0.004644752945750952
+epoch 34400  clean testing loss: 0.5569270849227905
+epoch 34500  training loss: 0.005236141383647919
+epoch 34500  clean testing loss: 0.5522156953811646
+epoch 34600  training loss: 0.004142459947615862
+epoch 34600  clean testing loss: 0.5663344264030457
+epoch 34700  training loss: 0.003482410917058587
+epoch 34700  clean testing loss: 0.5509436130523682
+epoch 34800  training loss: 0.004835951142013073
+epoch 34800  clean testing loss: 0.5599604845046997
+epoch 34900  training loss: 0.004997646436095238
+
+ 35%|██████████████████████████▊                                                  | 34894/100000 [09:38<16:46, 64.68it/s]
+epoch 35000  training loss: 0.006378507241606712
+epoch 35000  clean testing loss: 0.5489815473556519
+
+ 35%|███████████████████████████                                                  | 35091/100000 [09:44<18:45, 57.65it/s]
+epoch 35100  training loss: 0.004398616962134838
+epoch 35100  clean testing loss: 0.5482614636421204
+epoch 35200  training loss: 0.002939022146165371
+
+ 35%|███████████████████████████                                                  | 35196/100000 [09:46<16:40, 64.75it/s]
+epoch 35300  training loss: 0.00191150838509202
+epoch 35300  clean testing loss: 0.5436913371086121
+epoch 35400  training loss: 0.004426005762070417
+
+ 35%|███████████████████████████▎                                                 | 35476/100000 [09:50<16:32, 65.02it/s]
+epoch 35500  training loss: 0.0030409337487071753
+epoch 35500  clean testing loss: 0.5393543243408203
+epoch 35600  training loss: 0.0024144777562469244
+
+ 36%|███████████████████████████▍                                                 | 35595/100000 [09:52<16:49, 63.79it/s]
+epoch 35700  training loss: 0.002189144492149353
+epoch 35700  clean testing loss: 0.550513505935669
+epoch 35800  training loss: 0.0031117212492972612
+
+ 36%|███████████████████████████▋                                                 | 35896/100000 [09:57<16:31, 64.65it/s]
+epoch 35900  training loss: 0.0017179767601191998
+
+ 36%|███████████████████████████▊                                                 | 36099/100000 [10:00<16:29, 64.56it/s]
+epoch 36000  training loss: 0.0024781078100204468
+epoch 36000  clean testing loss: 0.5596289038658142
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 36100  training loss: 0.001033605309203267
+
+ 37%|████████████████████████████▍                                                | 37002/100000 [10:14<16:28, 63.73it/s]
+epoch 36200  training loss: 0.0006949257804080844
+epoch 36200  clean testing loss: 0.5507004261016846
+epoch 36300  training loss: 0.0035416388418525457
+epoch 36300  clean testing loss: 0.5510172843933105
+epoch 36400  training loss: 0.002269820310175419
+epoch 36400  clean testing loss: 0.5541766881942749
+epoch 36500  training loss: 0.00038688446511514485
+epoch 36500  clean testing loss: 0.5639005303382874
+epoch 36600  training loss: 0.0005084138247184455
+epoch 36600  clean testing loss: 0.5531134605407715
+epoch 36700  training loss: 0.0011649043299257755
+epoch 36700  clean testing loss: 0.5601502060890198
+epoch 36800  training loss: 0.0014600125141441822
+epoch 36800  clean testing loss: 0.5632261037826538
+epoch 36900  training loss: 0.0036635412834584713
+
+ 37%|████████████████████████████▌                                                | 37128/100000 [10:16<16:15, 64.42it/s]
+epoch 37000  training loss: 0.003531749127432704
+epoch 37000  clean testing loss: 0.5511538982391357
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 37100  training loss: 0.0026642547454684973
+
+ 37%|████████████████████████████▋                                                | 37198/100000 [10:17<16:15, 64.36it/s]
+epoch 37200  training loss: 0.004412564914673567
+
+ 38%|█████████████████████████████                                                | 37779/100000 [10:26<16:05, 64.45it/s]
+epoch 37300  training loss: 0.005751290358603001
+epoch 37300  clean testing loss: 0.5654067397117615
+epoch 37400  training loss: 0.001991139492020011
+epoch 37400  clean testing loss: 0.563046395778656
+epoch 37500  training loss: 0.001359783811494708
+epoch 37500  clean testing loss: 0.5572715401649475
+epoch 37600  training loss: 0.0021364837884902954
+epoch 37600  clean testing loss: 0.5696722865104675
+epoch 37700  training loss: 0.0037435106933116913
+
+ 38%|█████████████████████████████▏                                               | 37905/100000 [10:28<16:08, 64.11it/s]
+epoch 37800  training loss: 0.0055526853539049625
+epoch 37800  clean testing loss: 0.5574054718017578
+epoch 37900  training loss: 0.0038303653709590435
+
+ 38%|█████████████████████████████▎                                               | 38031/100000 [10:30<16:18, 63.32it/s]
+epoch 38000  training loss: 0.0028810773510485888
+epoch 38000  clean testing loss: 0.5752887725830078
+
+ 38%|█████████████████████████████▎                                               | 38094/100000 [10:31<15:54, 64.83it/s]
+epoch 38100  training loss: 0.0036640509497374296
+
+ 38%|█████████████████████████████▍                                               | 38290/100000 [10:34<15:55, 64.58it/s]
+epoch 38200  training loss: 0.0021313661709427834
+
+ 38%|█████████████████████████████▌                                               | 38395/100000 [10:36<15:46, 65.08it/s]
+epoch 38300  training loss: 0.003444801550358534
+epoch 38300  clean testing loss: 0.5681848526000977
+epoch 38400  training loss: 0.002867801347747445
+
+ 39%|█████████████████████████████▊                                               | 38682/100000 [10:40<15:49, 64.61it/s]
+epoch 38500  training loss: 0.001382528804242611
+epoch 38500  clean testing loss: 0.5611290335655212
+epoch 38600  training loss: 0.004041058477014303
+
+ 39%|█████████████████████████████▊                                               | 38794/100000 [10:42<15:42, 64.94it/s]
+epoch 38700  training loss: 0.0015228113625198603
+epoch 38700  clean testing loss: 0.5650109648704529
+epoch 38800  training loss: 0.00415113614872098
+
+ 39%|██████████████████████████████                                               | 39067/100000 [10:46<15:45, 64.43it/s]
+epoch 38900  training loss: 0.004359934478998184
+epoch 38900  clean testing loss: 0.5567081570625305
+epoch 39000  training loss: 0.001144576002843678
+epoch 39000  clean testing loss: 0.5565409660339355
+
+ 39%|██████████████████████████████▏                                              | 39193/100000 [10:48<15:55, 63.62it/s]
+epoch 39100  training loss: 0.002960135228931904
+
+ 39%|██████████████████████████████▎                                              | 39298/100000 [10:50<15:39, 64.64it/s]
+epoch 39200  training loss: 0.005481311585754156
+epoch 39200  clean testing loss: 0.5622631907463074
+epoch 39300  training loss: 0.0028901591431349516
+
+ 40%|██████████████████████████████▌                                              | 39627/100000 [10:56<35:46, 28.12it/s]
+epoch 39400  training loss: 0.0035453210584819317
+epoch 39400  clean testing loss: 0.5519841909408569
+epoch 39500  training loss: 0.0028706390876322985
+epoch 39500  clean testing loss: 0.5428043007850647
+epoch 39600  training loss: 0.00347226788289845
+
+ 40%|██████████████████████████████▌                                              | 39753/100000 [10:58<15:40, 64.05it/s]
+epoch 39700  training loss: 0.0025389306247234344
+
+ 40%|██████████████████████████████▋                                              | 39795/100000 [10:59<15:31, 64.60it/s]
+epoch 39800  training loss: 0.001847514882683754
+
+ 40%|██████████████████████████████▊                                              | 40050/100000 [11:04<22:10, 45.06it/s]
+epoch 39900  training loss: 0.0032778983004391193
+epoch 39900  clean testing loss: 0.5450567603111267
+epoch 40000  training loss: 0.0019710834603756666
+epoch 40000  clean testing loss: 0.5445353984832764
+
+ 40%|██████████████████████████████▉                                              | 40098/100000 [11:05<14:59, 66.59it/s]
+epoch 40100  training loss: 0.004574697930365801
+
+ 40%|███████████████████████████████                                              | 40338/100000 [11:08<13:51, 71.79it/s]
+epoch 40200  training loss: 0.002720209304243326
+epoch 40200  clean testing loss: 0.5436563491821289
+epoch 40300  training loss: 0.006027696654200554
+
+ 40%|███████████████████████████████▏                                             | 40482/100000 [11:10<13:38, 72.74it/s]
+epoch 40400  training loss: 0.0031485126819461584
+
+ 41%|███████████████████████████████▎                                             | 40626/100000 [11:12<13:36, 72.73it/s]
+epoch 40500  training loss: 0.002871113596484065
+epoch 40500  clean testing loss: 0.5432275533676147
+epoch 40600  training loss: 0.0024059696588665247
+
+ 41%|███████████████████████████████▍                                             | 40770/100000 [11:14<13:33, 72.83it/s]
+epoch 40700  training loss: 0.009923307225108147
+
+ 41%|███████████████████████████████▍                                             | 40882/100000 [11:16<13:28, 73.13it/s]
+epoch 40800  training loss: 0.0025575438048690557
+epoch 40800  clean testing loss: 0.547206461429596
+epoch 40900  training loss: 0.005974029190838337
+
+ 41%|███████████████████████████████▌                                             | 41026/100000 [11:18<13:32, 72.60it/s]
+epoch 41000  training loss: 0.0027205203659832478
+epoch 41000  clean testing loss: 0.535683274269104
+
+ 41%|███████████████████████████████▋                                             | 41170/100000 [11:20<13:30, 72.56it/s]
+epoch 41100  training loss: 0.0027421480044722557
+epoch 41100  clean testing loss: 0.5399429798126221
+epoch 41200  training loss: 0.0035618345718830824
+epoch 41200  clean testing loss: 0.5394195318222046
+epoch 41300  training loss: 0.002553266240283847
+
+
+ 41%|███████████████████████████████▉                                             | 41466/100000 [11:24<13:44, 70.97it/s]
+epoch 41400  training loss: 0.004513461608439684
+epoch 41400  clean testing loss: 0.5597308278083801
+epoch 41500  training loss: 0.004630648531019688
+
+ 41%|███████████████████████████████▉                                             | 41498/100000 [11:24<13:33, 71.95it/s]
+epoch 41600  training loss: 0.003230334958061576
+epoch 41600  clean testing loss: 0.5552453994750977
+epoch 41700  training loss: 0.0026634365785866976
+epoch 41700  clean testing loss: 0.558492124080658
+epoch 41800  training loss: 0.002652382245287299
+epoch 41800  clean testing loss: 0.558661162853241
+epoch 41900  training loss: 0.0026639520656317472
+epoch 41900  clean testing loss: 0.56097012758255
+epoch 42000  training loss: 0.003189009614288807
+epoch 42000  clean testing loss: 0.5527388453483582
+
+ 42%|████████████████████████████████▎                                            | 42042/100000 [11:32<13:23, 72.13it/s]
+epoch 42100  training loss: 0.0041260565631091595
+
+ 42%|████████████████████████████████▍                                            | 42186/100000 [11:34<13:09, 73.20it/s]
+epoch 42200  training loss: 0.0023762534838169813
+epoch 42200  clean testing loss: 0.5534175634384155
+epoch 42300  training loss: 0.002600413514301181
+
+ 42%|████████████████████████████████▌                                            | 42330/100000 [11:36<13:33, 70.92it/s]
+epoch 42400  training loss: 0.0026083975099027157
+
+ 42%|████████████████████████████████▋                                            | 42394/100000 [11:37<13:32, 70.93it/s]
+epoch 42500  training loss: 0.0023228011559695005
+epoch 42500  clean testing loss: 0.5609749555587769
+epoch 42600  training loss: 0.002649750094860792
+
+ 43%|████████████████████████████████▊                                            | 42594/100000 [11:39<13:25, 71.23it/s]
+epoch 42700  training loss: 0.00250455760397017
+epoch 42700  clean testing loss: 0.5578362345695496
+epoch 42800  training loss: 0.004418584518134594
+epoch 42800  clean testing loss: 0.5615243315696716
+epoch 42900  training loss: 0.0013295673998072743
+
+ 43%|█████████████████████████████████                                            | 42946/100000 [11:44<12:59, 73.15it/s]
+epoch 43000  training loss: 0.006307525560259819
+epoch 43000  clean testing loss: 0.5561259984970093
+
+ 43%|█████████████████████████████████                                            | 42996/100000 [11:45<11:56, 79.53it/s]
+epoch 43100  training loss: 0.0014414628967642784
+
+ 43%|█████████████████████████████████▏                                           | 43140/100000 [11:48<13:33, 69.92it/s]
+epoch 43200  training loss: 0.0023352119605988264
+
+
+ 43%|█████████████████████████████████▍                                           | 43436/100000 [11:52<12:59, 72.54it/s]
+epoch 43300  training loss: 0.001239350182004273
+epoch 43300  clean testing loss: 0.541314423084259
+epoch 43400  training loss: 0.0026789498515427113
+
+ 44%|█████████████████████████████████▌                                           | 43580/100000 [11:54<12:52, 73.03it/s]
+epoch 43500  training loss: 0.0032578646205365658
+
+ 44%|█████████████████████████████████▋                                           | 43724/100000 [11:56<13:04, 71.72it/s]
+epoch 43600  training loss: 0.0029981243424117565
+epoch 43600  clean testing loss: 0.5491614937782288
+epoch 43700  training loss: 0.005161626264452934
+epoch 43700  clean testing loss: 0.550861120223999
+epoch 43800  training loss: 0.00406492268666625
+
+
+ 44%|█████████████████████████████████▉                                           | 44052/100000 [12:01<12:56, 72.09it/s]
+epoch 43900  training loss: 0.0025476901791989803
+epoch 43900  clean testing loss: 0.5527616143226624
+epoch 44000  training loss: 0.003305824240669608
+epoch 44000  clean testing loss: 0.5485813617706299
+
+ 44%|██████████████████████████████████                                           | 44196/100000 [12:03<12:44, 73.03it/s]
+epoch 44100  training loss: 0.0038251159712672234
+
+ 44%|██████████████████████████████████▏                                          | 44340/100000 [12:05<12:54, 71.89it/s]
+epoch 44200  training loss: 0.003788323374465108
+epoch 44200  clean testing loss: 0.5559087991714478
+epoch 44300  training loss: 0.0018454790115356445
+
+ 44%|██████████████████████████████████▎                                          | 44484/100000 [12:07<12:57, 71.41it/s]
+epoch 44400  training loss: 0.003791585797443986
+
+ 45%|██████████████████████████████████▎                                          | 44628/100000 [12:09<12:45, 72.33it/s]
+epoch 44500  training loss: 0.0034516416490077972
+epoch 44500  clean testing loss: 0.5415963530540466
+epoch 44600  training loss: 0.00364577304571867
+
+ 45%|██████████████████████████████████▍                                          | 44772/100000 [12:11<12:37, 72.86it/s]
+epoch 44700  training loss: 0.003623692551627755
+
+ 45%|██████████████████████████████████▌                                          | 44916/100000 [12:13<12:47, 71.80it/s]
+epoch 44800  training loss: 0.0028003721963614225
+
+ 45%|██████████████████████████████████▋                                          | 45060/100000 [12:15<12:52, 71.08it/s]
+epoch 44900  training loss: 0.0034194057807326317
+epoch 44900  clean testing loss: 0.5482025742530823
+epoch 45000  training loss: 0.005178678315132856
+epoch 45000  clean testing loss: 0.5495865345001221
+
+ 45%|██████████████████████████████████▊                                          | 45204/100000 [12:17<12:32, 72.84it/s]
+epoch 45100  training loss: 0.0032490736339241266
+
+ 45%|██████████████████████████████████▉                                          | 45348/100000 [12:19<12:35, 72.29it/s]
+epoch 45200  training loss: 0.004038416780531406
+epoch 45200  clean testing loss: 0.555663526058197
+epoch 45300  training loss: 0.002839380642399192
+
+ 45%|███████████████████████████████████                                          | 45460/100000 [12:20<12:24, 73.28it/s]
+epoch 45400  training loss: 0.0028605598490685225
+
+ 46%|███████████████████████████████████                                          | 45604/100000 [12:22<12:25, 73.00it/s]
+epoch 45500  training loss: 0.0029835812747478485
+epoch 45500  clean testing loss: 0.5515586733818054
+epoch 45600  training loss: 0.002623304259032011
+
+ 46%|███████████████████████████████████▏                                         | 45748/100000 [12:24<12:27, 72.59it/s]
+epoch 45700  training loss: 0.0026728215161710978
+
+ 46%|███████████████████████████████████▎                                         | 45892/100000 [12:26<12:37, 71.48it/s]
+epoch 45800  training loss: 0.001341035938821733
+epoch 45800  clean testing loss: 0.542244553565979
+epoch 45900  training loss: 0.0038349980022758245
+
+ 46%|███████████████████████████████████▍                                         | 46036/100000 [12:28<12:27, 72.17it/s]
+epoch 46000  training loss: 0.0028551360592246056
+epoch 46000  clean testing loss: 0.5581555366516113
+
+ 46%|███████████████████████████████████▌                                         | 46188/100000 [12:30<12:18, 72.90it/s]
+epoch 46100  training loss: 0.00329396384768188
+
+ 46%|███████████████████████████████████▋                                         | 46332/100000 [12:32<12:20, 72.48it/s]
+epoch 46200  training loss: 0.0022560367360711098
+epoch 46200  clean testing loss: 0.5546383261680603
+epoch 46300  training loss: 0.003215050557628274
+
+ 46%|███████████████████████████████████▊                                         | 46476/100000 [12:34<12:16, 72.64it/s]
+epoch 46400  training loss: 0.0029536026995629072
+
+ 47%|███████████████████████████████████▉                                         | 46620/100000 [12:36<12:10, 73.07it/s]
+epoch 46500  training loss: 0.005781507585197687
+epoch 46500  clean testing loss: 0.5509351491928101
+epoch 46600  training loss: 0.0031416204292327166
+
+ 47%|████████████████████████████████████                                         | 46764/100000 [12:38<12:12, 72.63it/s]
+epoch 46700  training loss: 0.002289161318913102
+
+ 47%|████████████████████████████████████                                         | 46908/100000 [12:40<12:05, 73.16it/s]
+epoch 46800  training loss: 0.0022465356159955263
+epoch 46800  clean testing loss: 0.549460232257843
+epoch 46900  training loss: 0.0035297481808811426
+
+ 47%|████████████████████████████████████▏                                        | 47052/100000 [12:42<12:06, 72.84it/s]
+epoch 47000  training loss: 0.002302780281752348
+epoch 47000  clean testing loss: 0.5563053488731384
+
+ 47%|████████████████████████████████████▎                                        | 47196/100000 [12:44<12:03, 72.98it/s]
+epoch 47100  training loss: 0.002792334882542491
+epoch 47100  clean testing loss: 0.5538856983184814
+epoch 47200  training loss: 0.002675142837688327
+
+ 47%|████████████████████████████████████▍                                        | 47348/100000 [12:46<12:05, 72.57it/s]
+epoch 47300  training loss: 0.0022806047927588224
+
+ 47%|████████████████████████████████████▌                                        | 47492/100000 [12:48<12:01, 72.75it/s]
+epoch 47400  training loss: 0.0019053807482123375
+
+ 48%|████████████████████████████████████▋                                        | 47636/100000 [12:50<11:59, 72.74it/s]
+epoch 47500  training loss: 0.0029179558623582125
+epoch 47500  clean testing loss: 0.554868757724762
+epoch 47600  training loss: 0.0026887026615440845
+
+ 48%|████████████████████████████████████▊                                        | 47780/100000 [12:52<12:03, 72.16it/s]
+epoch 47700  training loss: 0.002120222430676222
+
+ 48%|████████████████████████████████████▉                                        | 47924/100000 [12:54<11:57, 72.56it/s]
+epoch 47800  training loss: 0.0032889454159885645
+epoch 47800  clean testing loss: 0.5465173721313477
+epoch 47900  training loss: 0.0012686332920566201
+
+ 48%|█████████████████████████████████████                                        | 48068/100000 [12:56<11:53, 72.80it/s]
+epoch 48000  training loss: 0.0008498619426973164
+epoch 48000  clean testing loss: 0.5509467720985413
+
+ 48%|█████████████████████████████████████                                        | 48212/100000 [12:58<12:17, 70.23it/s]
+epoch 48100  training loss: 0.0030172201804816723
+epoch 48100  clean testing loss: 0.5583151578903198
+epoch 48200  training loss: 0.002582874149084091
+
+ 48%|█████████████████████████████████████▏                                       | 48356/100000 [13:00<11:50, 72.73it/s]
+epoch 48300  training loss: 0.0013584272237494588
+
+ 48%|█████████████████████████████████████▎                                       | 48500/100000 [13:02<11:42, 73.34it/s]
+epoch 48400  training loss: 0.0010219435207545757
+epoch 48400  clean testing loss: 0.5486979484558105
+epoch 48500  training loss: 0.002714382018893957
+
+ 49%|█████████████████████████████████████▍                                       | 48644/100000 [13:04<11:44, 72.89it/s]
+epoch 48600  training loss: 0.0008130015921778977
+
+ 49%|█████████████████████████████████████▌                                       | 48788/100000 [13:06<11:46, 72.50it/s]
+epoch 48700  training loss: 0.0012168950634077191
+
+ 49%|█████████████████████████████████████▋                                       | 48940/100000 [13:09<11:37, 73.18it/s]
+epoch 48800  training loss: 0.003231783164665103
+epoch 48800  clean testing loss: 0.5545815229415894
+epoch 48900  training loss: 0.0027332433965057135
+
+ 49%|█████████████████████████████████████▊                                       | 49084/100000 [13:11<11:46, 72.09it/s]
+epoch 49000  training loss: 0.0015699767973273993
+epoch 49000  clean testing loss: 0.545496940612793
+
+ 49%|█████████████████████████████████████▉                                       | 49220/100000 [13:12<11:47, 71.81it/s]
+epoch 49100  training loss: 0.0033148336224257946
+epoch 49100  clean testing loss: 0.5512520670890808
+epoch 49200  training loss: 0.00038959263474680483
+
+ 49%|██████████████████████████████████████                                       | 49364/100000 [13:14<11:49, 71.41it/s]
+epoch 49300  training loss: 0.00177795032504946
+
+ 50%|██████████████████████████████████████                                       | 49508/100000 [13:16<11:51, 70.98it/s]
+epoch 49400  training loss: 0.001132332137785852
+epoch 49400  clean testing loss: 0.548087477684021
+epoch 49500  training loss: 0.002919791964814067
+
+ 50%|██████████████████████████████████████▏                                      | 49652/100000 [13:18<11:47, 71.13it/s]
+epoch 49600  training loss: 0.0029962181579321623
+
+ 50%|██████████████████████████████████████▎                                      | 49796/100000 [13:20<11:33, 72.42it/s]
+epoch 49700  training loss: 0.002460248302668333
+epoch 49700  clean testing loss: 0.5618419647216797
+epoch 49800  training loss: 0.0021690053399652243
+
+ 50%|██████████████████████████████████████▍                                      | 49940/100000 [13:22<11:30, 72.49it/s]
+epoch 49900  training loss: 0.0012584301875904202
+
+ 50%|██████████████████████████████████████▌                                      | 50092/100000 [13:25<11:27, 72.64it/s]
+epoch 50000  training loss: 0.0035595835652202368
+epoch 50000  clean testing loss: 0.5563448071479797
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 50100  training loss: 0.0006655104225501418
+epoch 50100  clean testing loss: 0.5633828639984131
+epoch 50200  training loss: 0.0008910491596907377
+
+ 50%|██████████████████████████████████████▋                                      | 50236/100000 [13:27<11:30, 72.07it/s]
+epoch 50300  training loss: 0.00034444997436366975
+
+ 50%|██████████████████████████████████████▊                                      | 50372/100000 [13:28<11:26, 72.31it/s]
+epoch 50400  training loss: 0.001473825192078948
+epoch 50400  clean testing loss: 0.5505132079124451
+epoch 50500  training loss: 0.0010548944119364023
+
+
+ 51%|███████████████████████████████████████                                      | 50668/100000 [13:33<11:27, 71.74it/s]
+epoch 50600  training loss: 0.0003525788488332182
+
+ 51%|███████████████████████████████████████▏                                     | 50812/100000 [13:35<11:25, 71.80it/s]
+epoch 50700  training loss: 0.00031339682755060494
+epoch 50700  clean testing loss: 0.5458752512931824
+epoch 50800  training loss: 0.00026033585891127586
+
+ 51%|███████████████████████████████████████▏                                     | 50956/100000 [13:37<11:17, 72.36it/s]
+epoch 50900  training loss: 0.00023342524946201593
+
+ 51%|███████████████████████████████████████▎                                     | 51100/100000 [13:39<11:06, 73.39it/s]
+epoch 51000  training loss: 0.0008359260391443968
+epoch 51000  clean testing loss: 0.5458139181137085
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 51100  training loss: 0.0006907112547196448
+
+ 51%|███████████████████████████████████████▍                                     | 51244/100000 [13:41<11:08, 72.94it/s]
+epoch 51200  training loss: 0.0008206668426282704
+
+ 51%|███████████████████████████████████████▌                                     | 51388/100000 [13:43<11:27, 70.66it/s]
+epoch 51300  training loss: 0.002529157092794776
+
+ 52%|███████████████████████████████████████▋                                     | 51532/100000 [13:45<11:17, 71.50it/s]
+epoch 51400  training loss: 0.0003128164680674672
+epoch 51400  clean testing loss: 0.5427173972129822
+epoch 51500  training loss: 0.00018498135614208877
+epoch 51500  clean testing loss: 0.5462215542793274
+epoch 51600  training loss: 0.0007662131683900952
+
+
+ 52%|███████████████████████████████████████▉                                     | 51820/100000 [13:49<11:04, 72.48it/s]
+epoch 51700  training loss: 0.00025166512932628393
+epoch 51700  clean testing loss: 0.5454828143119812
+epoch 51800  training loss: 0.0002458134258631617
+
+ 52%|████████████████████████████████████████                                     | 51964/100000 [13:51<11:11, 71.55it/s]
+epoch 51900  training loss: 0.0011376304319128394
+
+ 52%|████████████████████████████████████████                                     | 52108/100000 [13:53<11:11, 71.35it/s]
+epoch 52000  training loss: 0.0003661259834188968
+epoch 52000  clean testing loss: 0.5534895062446594
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 52100  training loss: 0.0007152734324336052
+epoch 52100  clean testing loss: 0.5494035482406616
+epoch 52200  training loss: 0.00069463747786358
+
+ 52%|████████████████████████████████████████▏                                    | 52252/100000 [13:55<11:02, 72.11it/s]
+epoch 52300  training loss: 0.0007570048910565674
+
+
+ 53%|████████████████████████████████████████▍                                    | 52540/100000 [13:59<10:50, 72.93it/s]
+epoch 52400  training loss: 0.0010762815363705158
+epoch 52400  clean testing loss: 0.5451287627220154
+epoch 52500  training loss: 0.0023747682571411133
+epoch 52500  clean testing loss: 0.5515241026878357
+epoch 52600  training loss: 0.0003713684855028987
+
+
+ 53%|████████████████████████████████████████▋                                    | 52836/100000 [14:03<10:47, 72.88it/s]
+epoch 52700  training loss: 0.002351203002035618
+epoch 52700  clean testing loss: 0.5397406816482544
+epoch 52800  training loss: 0.0005256123840808868
+
+ 53%|████████████████████████████████████████▊                                    | 52980/100000 [14:05<10:45, 72.81it/s]
+epoch 52900  training loss: 0.0005660833558067679
+
+ 53%|████████████████████████████████████████▉                                    | 53124/100000 [14:07<11:01, 70.86it/s]
+epoch 53000  training loss: 0.005419059190899134
+epoch 53000  clean testing loss: 0.5459372401237488
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 53100  training loss: 0.0006996910087764263
+
+ 53%|█████████████████████████████████████████                                    | 53268/100000 [14:09<10:40, 72.94it/s]
+epoch 53200  training loss: 0.0025824285112321377
+
+ 53%|█████████████████████████████████████████▏                                   | 53420/100000 [14:11<10:44, 72.29it/s]
+epoch 53300  training loss: 0.0003346640442032367
+epoch 53300  clean testing loss: 0.5347848534584045
+epoch 53400  training loss: 0.0003213519521523267
+
+ 54%|█████████████████████████████████████████▏                                   | 53564/100000 [14:13<10:35, 73.02it/s]
+epoch 53500  training loss: 0.0004720902652479708
+epoch 53500  clean testing loss: 0.5464891791343689
+epoch 53600  training loss: 0.001967868534848094
+
+ 54%|█████████████████████████████████████████▎                                   | 53708/100000 [14:15<10:35, 72.80it/s]
+epoch 53700  training loss: 0.00045914409565739334
+epoch 53700  clean testing loss: 0.555854856967926
+epoch 53800  training loss: 0.003364135278388858
+
+ 54%|█████████████████████████████████████████▍                                   | 53852/100000 [14:17<10:30, 73.22it/s]
+epoch 53900  training loss: 0.00028325297171249986
+
+ 54%|█████████████████████████████████████████▌                                   | 54004/100000 [14:19<10:48, 70.89it/s]
+epoch 54000  training loss: 0.0005001632962375879
+epoch 54000  clean testing loss: 0.5477748513221741
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 54100  training loss: 0.0027533257380127907
+
+ 54%|█████████████████████████████████████████▋                                   | 54148/100000 [14:21<10:27, 73.02it/s]
+epoch 54200  training loss: 0.0006522914627566934
+
+ 54%|█████████████████████████████████████████▊                                   | 54292/100000 [14:23<10:29, 72.59it/s]
+epoch 54300  training loss: 0.0009489283547736704
+epoch 54300  clean testing loss: 0.5456820726394653
+epoch 54400  training loss: 0.0010894022416323423
+
+ 54%|█████████████████████████████████████████▉                                   | 54436/100000 [14:25<10:24, 72.93it/s]
+epoch 54500  training loss: 0.0015453287633135915
+
+ 55%|██████████████████████████████████████████                                   | 54580/100000 [14:27<10:35, 71.44it/s]
+epoch 54600  training loss: 0.0005326500395312905
+epoch 54600  clean testing loss: 0.5419632792472839
+epoch 54700  training loss: 0.002627869602292776
+
+ 55%|██████████████████████████████████████████▏                                  | 54724/100000 [14:29<10:21, 72.81it/s]
+epoch 54800  training loss: 0.000539043394383043
+
+ 55%|██████████████████████████████████████████▏                                  | 54868/100000 [14:31<10:24, 72.32it/s]
+epoch 54900  training loss: 0.0033924367744475603
+epoch 54900  clean testing loss: 0.5470383167266846
+epoch 55000  training loss: 0.0004687176551669836
+epoch 55000  clean testing loss: 0.5473200082778931
+
+ 55%|██████████████████████████████████████████▎                                  | 55012/100000 [14:33<10:28, 71.53it/s]
+epoch 55100  training loss: 0.001701755216345191
+
+ 55%|██████████████████████████████████████████▍                                  | 55156/100000 [14:35<10:30, 71.14it/s]
+epoch 55200  training loss: 0.000827515497803688
+
+
+ 55%|██████████████████████████████████████████▋                                  | 55444/100000 [14:39<10:11, 72.88it/s]
+epoch 55300  training loss: 0.00041879533091560006
+epoch 55300  clean testing loss: 0.5480818152427673
+epoch 55400  training loss: 0.0010753084206953645
+
+ 56%|██████████████████████████████████████████▊                                  | 55588/100000 [14:41<10:13, 72.44it/s]
+epoch 55500  training loss: 0.0012670813594013453
+
+ 56%|██████████████████████████████████████████▉                                  | 55740/100000 [14:43<10:09, 72.59it/s]
+epoch 55600  training loss: 0.0015076427953317761
+epoch 55600  clean testing loss: 0.5421033501625061
+epoch 55700  training loss: 0.0016548713902011514
+epoch 55700  clean testing loss: 0.546589732170105
+epoch 55800  training loss: 0.00043689104495570064
+
+ 56%|███████████████████████████████████████████                                  | 55884/100000 [14:45<10:11, 72.18it/s]
+epoch 55900  training loss: 0.0007104487740434706
+epoch 55900  clean testing loss: 0.5452862977981567
+epoch 56000  training loss: 0.0006903367466293275
+epoch 56000  clean testing loss: 0.5462343096733093
+
+ 56%|███████████████████████████████████████████▏                                 | 56028/100000 [14:47<10:13, 71.63it/s]
+epoch 56100  training loss: 0.0012125310022383928
+
+
+ 56%|███████████████████████████████████████████▎                                 | 56316/100000 [14:51<10:04, 72.32it/s]
+epoch 56200  training loss: 0.003388154087588191
+epoch 56200  clean testing loss: 0.5412671566009521
+epoch 56300  training loss: 0.0006416552932932973
+
+ 56%|███████████████████████████████████████████▍                                 | 56460/100000 [14:53<09:59, 72.68it/s]
+epoch 56400  training loss: 0.0004941899096593261
+epoch 56400  clean testing loss: 0.5397643446922302
+epoch 56500  training loss: 0.004669034853577614
+
+ 57%|███████████████████████████████████████████▌                                 | 56604/100000 [14:55<10:10, 71.09it/s]
+epoch 56600  training loss: 0.002684790175408125
+epoch 56600  clean testing loss: 0.5470126271247864
+epoch 56700  training loss: 0.003299228148534894
+
+ 57%|███████████████████████████████████████████▋                                 | 56748/100000 [14:57<09:52, 72.95it/s]
+epoch 56800  training loss: 0.0005116459215059876
+
+ 57%|███████████████████████████████████████████▊                                 | 56892/100000 [14:59<09:58, 72.08it/s]
+epoch 56900  training loss: 0.001136826816946268
+epoch 56900  clean testing loss: 0.5337489247322083
+epoch 57000  training loss: 0.001181768486276269
+epoch 57000  clean testing loss: 0.5457677841186523
+
+ 57%|███████████████████████████████████████████▉                                 | 57036/100000 [15:01<09:58, 71.83it/s]
+epoch 57100  training loss: 0.00018891599029302597
+
+ 57%|████████████████████████████████████████████                                 | 57188/100000 [15:03<09:44, 73.30it/s]
+epoch 57200  training loss: 0.0007750989170745015
+epoch 57200  clean testing loss: 0.5382636189460754
+epoch 57300  training loss: 0.0011385234538465738
+
+ 57%|████████████████████████████████████████████▏                                | 57332/100000 [15:05<09:59, 71.17it/s]
+epoch 57400  training loss: 0.0038006966933608055
+
+ 57%|████████████████████████████████████████████▎                                | 57476/100000 [15:07<09:46, 72.47it/s]
+epoch 57500  training loss: 0.0010488358093425632
+epoch 57500  clean testing loss: 0.5366034507751465
+epoch 57600  training loss: 0.0002660216414369643
+
+ 58%|████████████████████████████████████████████▎                                | 57620/100000 [15:09<09:49, 71.92it/s]
+epoch 57700  training loss: 0.0006453284295275807
+
+ 58%|████████████████████████████████████████████▍                                | 57764/100000 [15:11<09:50, 71.55it/s]
+epoch 57800  training loss: 0.0006291235913522542
+
+ 58%|████████████████████████████████████████████▌                                | 57908/100000 [15:13<09:48, 71.49it/s]
+epoch 57900  training loss: 0.0002486876037437469
+epoch 57900  clean testing loss: 0.5380439162254333
+epoch 58000  training loss: 0.0003113053389824927
+epoch 58000  clean testing loss: 0.5366279482841492
+
+ 58%|████████████████████████████████████████████▋                                | 58052/100000 [15:15<09:45, 71.68it/s]
+epoch 58100  training loss: 0.0002161504962714389
+
+ 58%|████████████████████████████████████████████▊                                | 58196/100000 [15:17<09:35, 72.65it/s]
+epoch 58200  training loss: 0.0029394724406301975
+epoch 58200  clean testing loss: 0.5404208302497864
+epoch 58300  training loss: 0.0007991793681867421
+
+ 58%|████████████████████████████████████████████▉                                | 58340/100000 [15:19<09:35, 72.41it/s]
+epoch 58400  training loss: 0.00028081933851353824
+
+ 58%|█████████████████████████████████████████████                                | 58492/100000 [15:21<09:30, 72.81it/s]
+epoch 58500  training loss: 0.0004253840306773782
+epoch 58500  clean testing loss: 0.5439109802246094
+epoch 58600  training loss: 0.002511000959202647
+
+ 59%|█████████████████████████████████████████████▏                               | 58636/100000 [15:23<09:28, 72.77it/s]
+epoch 58700  training loss: 0.0027144148480147123
+
+ 59%|█████████████████████████████████████████████▎                               | 58780/100000 [15:25<09:23, 73.19it/s]
+epoch 58800  training loss: 0.0010828489903360605
+epoch 58800  clean testing loss: 0.5450873374938965
+epoch 58900  training loss: 0.001134190009906888
+
+ 59%|█████████████████████████████████████████████▎                               | 58924/100000 [15:27<09:23, 72.90it/s]
+epoch 59000  training loss: 0.0015946512576192617
+epoch 59000  clean testing loss: 0.5449632406234741
+
+
+ 59%|█████████████████████████████████████████████▌                               | 59212/100000 [15:31<09:17, 73.10it/s]
+epoch 59100  training loss: 0.0002190855157095939
+
+ 59%|█████████████████████████████████████████████▋                               | 59356/100000 [15:33<09:23, 72.16it/s]
+epoch 59200  training loss: 0.002809703815728426
+epoch 59200  clean testing loss: 0.5446313619613647
+epoch 59300  training loss: 0.00114137411583215
+
+ 60%|█████████████████████████████████████████████▊                               | 59500/100000 [15:35<09:13, 73.13it/s]
+epoch 59400  training loss: 0.0005224123597145081
+
+ 60%|█████████████████████████████████████████████▉                               | 59652/100000 [15:37<09:16, 72.53it/s]
+epoch 59500  training loss: 0.00026638645795173943
+epoch 59500  clean testing loss: 0.5414530634880066
+epoch 59600  training loss: 0.0007285928586497903
+
+ 60%|██████████████████████████████████████████████                               | 59796/100000 [15:39<09:14, 72.57it/s]
+epoch 59700  training loss: 0.0001429760450264439
+
+ 60%|██████████████████████████████████████████████▏                              | 59940/100000 [15:41<09:18, 71.76it/s]
+epoch 59800  training loss: 0.0007782775210216641
+epoch 59800  clean testing loss: 0.5457700490951538
+epoch 59900  training loss: 0.0030291506554931402
+
+ 60%|██████████████████████████████████████████████▎                              | 60084/100000 [15:43<09:07, 72.86it/s]
+epoch 60000  training loss: 0.0004984004772268236
+epoch 60000  clean testing loss: 0.5422308444976807
+
+ 60%|██████████████████████████████████████████████▍                              | 60228/100000 [15:45<09:16, 71.53it/s]
+epoch 60100  training loss: 0.0001956991764018312
+epoch 60100  clean testing loss: 0.543596088886261
+epoch 60200  training loss: 0.00024001255223993212
+
+ 60%|██████████████████████████████████████████████▍                              | 60372/100000 [15:47<09:02, 73.08it/s]
+epoch 60300  training loss: 0.0002321016218047589
+
+ 61%|██████████████████████████████████████████████▌                              | 60516/100000 [15:49<09:00, 73.11it/s]
+epoch 60400  training loss: 0.0004368133086245507
+epoch 60400  clean testing loss: 0.5464712381362915
+epoch 60500  training loss: 0.0011524471919983625
+
+ 61%|██████████████████████████████████████████████▋                              | 60668/100000 [15:51<09:00, 72.82it/s]
+epoch 60600  training loss: 0.0010931291617453098
+
+ 61%|██████████████████████████████████████████████▊                              | 60812/100000 [15:53<09:09, 71.32it/s]
+epoch 60700  training loss: 0.00034932568087242544
+
+ 61%|██████████████████████████████████████████████▉                              | 60956/100000 [15:55<08:58, 72.45it/s]
+epoch 60800  training loss: 0.0006448964704759419
+epoch 60800  clean testing loss: 0.5492635369300842
+epoch 60900  training loss: 0.0003799833939410746
+
+ 61%|███████████████████████████████████████████████                              | 61100/100000 [15:57<08:54, 72.82it/s]
+epoch 61000  training loss: 0.0008770840940997005
+epoch 61000  clean testing loss: 0.5541942715644836
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 61100  training loss: 0.0011604642495512962
+epoch 61100  clean testing loss: 0.5526449680328369
+epoch 61200  training loss: 0.003155919024720788
+
+
+ 61%|███████████████████████████████████████████████▎                             | 61388/100000 [16:01<08:50, 72.79it/s]
+epoch 61300  training loss: 0.0014572686050087214
+epoch 61300  clean testing loss: 0.5580413937568665
+epoch 61400  training loss: 0.0003600394702516496
+epoch 61400  clean testing loss: 0.5572143197059631
+epoch 61500  training loss: 0.000599337334278971
+
+ 62%|███████████████████████████████████████████████▍                             | 61532/100000 [16:03<08:58, 71.42it/s]
+epoch 61600  training loss: 0.0010394541313871741
+
+ 62%|███████████████████████████████████████████████▍                             | 61676/100000 [16:05<08:53, 71.79it/s]
+epoch 61700  training loss: 0.0001901524083223194
+epoch 61700  clean testing loss: 0.5522426962852478
+epoch 61800  training loss: 0.0005717407329939306
+
+ 62%|███████████████████████████████████████████████▌                             | 61820/100000 [16:07<08:53, 71.56it/s]
+epoch 61900  training loss: 0.00018531503155827522
+
+ 62%|███████████████████████████████████████████████▋                             | 61964/100000 [16:09<08:54, 71.17it/s]
+epoch 62000  training loss: 0.000314572622301057
+epoch 62000  clean testing loss: 0.5510761737823486
+
+ 62%|███████████████████████████████████████████████▊                             | 62108/100000 [16:11<08:51, 71.25it/s]
+epoch 62100  training loss: 0.00013297800614964217
+epoch 62100  clean testing loss: 0.5490214228630066
+epoch 62200  training loss: 0.0012177410535514355
+
+ 62%|███████████████████████████████████████████████▉                             | 62260/100000 [16:13<08:42, 72.19it/s]
+epoch 62300  training loss: 0.0011057653464376926
+
+ 62%|████████████████████████████████████████████████                             | 62364/100000 [16:15<08:42, 72.00it/s]
+epoch 62400  training loss: 0.0014717596350237727
+epoch 62400  clean testing loss: 0.5493170619010925
+epoch 62500  training loss: 0.00012505752965807915
+
+ 63%|████████████████████████████████████████████████▏                            | 62508/100000 [16:17<08:37, 72.39it/s]
+epoch 62600  training loss: 0.00013255780504550785
+
+ 63%|████████████████████████████████████████████████▏                            | 62652/100000 [16:19<08:33, 72.73it/s]
+epoch 62700  training loss: 0.0006631235592067242
+epoch 62700  clean testing loss: 0.5461541414260864
+epoch 62800  training loss: 0.0005542604485526681
+
+ 63%|████████████████████████████████████████████████▎                            | 62796/100000 [16:21<08:33, 72.44it/s]
+epoch 62900  training loss: 0.0005154531099833548
+
+ 63%|████████████████████████████████████████████████▍                            | 62940/100000 [16:23<08:42, 70.89it/s]
+epoch 63000  training loss: 0.0013646299485117197
+epoch 63000  clean testing loss: 0.5489371418952942
+
+ 63%|████████████████████████████████████████████████▌                            | 63084/100000 [16:25<08:32, 72.09it/s]
+epoch 63100  training loss: 0.0005796049372293055
+epoch 63100  clean testing loss: 0.5420798063278198
+epoch 63200  training loss: 0.001615258865058422
+
+ 63%|████████████████████████████████████████████████▋                            | 63228/100000 [16:27<08:30, 72.02it/s]
+epoch 63300  training loss: 0.003324792953208089
+
+
+ 64%|████████████████████████████████████████████████▉                            | 63524/100000 [16:31<08:27, 71.86it/s]
+epoch 63400  training loss: 0.0009416643879376352
+epoch 63400  clean testing loss: 0.5419371724128723
+epoch 63500  training loss: 0.0010749250650405884
+
+ 64%|█████████████████████████████████████████████████                            | 63668/100000 [16:33<08:20, 72.61it/s]
+epoch 63600  training loss: 0.001622918643988669
+epoch 63600  clean testing loss: 0.5376296639442444
+epoch 63700  training loss: 0.0010499502532184124
+epoch 63700  clean testing loss: 0.5437914729118347
+epoch 63800  training loss: 0.0002982529695145786
+
+ 64%|█████████████████████████████████████████████████▏                           | 63812/100000 [16:35<08:28, 71.19it/s]
+epoch 63900  training loss: 0.0018432748038321733
+
+
+ 64%|█████████████████████████████████████████████████▎                           | 64100/100000 [16:39<08:15, 72.45it/s]
+epoch 64000  training loss: 0.0015770593890920281
+epoch 64000  clean testing loss: 0.5455614924430847
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 64100  training loss: 0.0036274148151278496
+
+ 64%|█████████████████████████████████████████████████▍                           | 64244/100000 [16:41<08:19, 71.52it/s]
+epoch 64200  training loss: 0.0011932627530768514
+
+ 64%|█████████████████████████████████████████████████▌                           | 64388/100000 [16:43<08:14, 72.06it/s]
+epoch 64300  training loss: 0.0012115269200876355
+
+ 65%|█████████████████████████████████████████████████▋                           | 64532/100000 [16:45<08:08, 72.65it/s]
+epoch 64400  training loss: 0.0031091044656932354
+epoch 64400  clean testing loss: 0.544768750667572
+epoch 64500  training loss: 0.000902599364053458
+
+ 65%|█████████████████████████████████████████████████▊                           | 64676/100000 [16:47<08:14, 71.40it/s]
+epoch 64600  training loss: 0.001374511979520321
+
+ 65%|█████████████████████████████████████████████████▉                           | 64828/100000 [16:49<08:01, 73.01it/s]
+epoch 64700  training loss: 0.003286822000518441
+epoch 64700  clean testing loss: 0.5489556789398193
+epoch 64800  training loss: 0.003965068142861128
+
+ 65%|██████████████████████████████████████████████████                           | 64972/100000 [16:51<08:00, 72.95it/s]
+epoch 64900  training loss: 0.00144791672937572
+
+ 65%|██████████████████████████████████████████████████▏                          | 65116/100000 [16:53<08:06, 71.76it/s]
+epoch 65000  training loss: 0.0009747223812155426
+epoch 65000  clean testing loss: 0.5421554446220398
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 65100  training loss: 0.0009145699441432953
+
+ 65%|██████████████████████████████████████████████████▎                          | 65260/100000 [16:55<08:08, 71.08it/s]
+epoch 65200  training loss: 0.0006880263681523502
+
+ 65%|██████████████████████████████████████████████████▎                          | 65404/100000 [16:57<07:52, 73.24it/s]
+epoch 65300  training loss: 0.0036317782942205667
+epoch 65300  clean testing loss: 0.5505073070526123
+epoch 65400  training loss: 0.0036417150404304266
+
+ 66%|██████████████████████████████████████████████████▍                          | 65500/100000 [16:58<08:00, 71.73it/s]
+epoch 65500  training loss: 0.002651255577802658
+
+ 66%|██████████████████████████████████████████████████▊                          | 65996/100000 [17:05<07:48, 72.58it/s]
+epoch 65600  training loss: 0.0030165708158165216
+epoch 65600  clean testing loss: 0.5559681057929993
+epoch 65700  training loss: 0.0017034379998221993
+epoch 65700  clean testing loss: 0.5572164058685303
+epoch 65800  training loss: 0.0025340525899082422
+epoch 65800  clean testing loss: 0.5564443469047546
+epoch 65900  training loss: 0.004768588580191135
+
+ 66%|██████████████████████████████████████████████████▉                          | 66140/100000 [17:07<07:44, 72.83it/s]
+epoch 66000  training loss: 0.002872852375730872
+epoch 66000  clean testing loss: 0.5597295761108398
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 66100  training loss: 0.002989499131217599
+
+ 66%|███████████████████████████████████████████████████                          | 66284/100000 [17:09<07:47, 72.16it/s]
+epoch 66200  training loss: 0.002949401270598173
+
+ 66%|███████████████████████████████████████████████████▏                         | 66428/100000 [17:11<07:43, 72.45it/s]
+epoch 66300  training loss: 0.0026945865247398615
+epoch 66300  clean testing loss: 0.5549589395523071
+epoch 66400  training loss: 0.001634620944969356
+
+ 66%|███████████████████████████████████████████████████▏                         | 66500/100000 [17:12<07:42, 72.37it/s]
+epoch 66500  training loss: 0.004744390957057476
+epoch 66500  clean testing loss: 0.5670545697212219
+epoch 66600  training loss: 0.0041884770616889
+epoch 66600  clean testing loss: 0.5619593858718872
+epoch 66700  training loss: 0.003008675528690219
+
+ 67%|███████████████████████████████████████████████████▍                         | 66788/100000 [17:16<07:38, 72.48it/s]
+epoch 66800  training loss: 0.0016200935933738947
+epoch 66800  clean testing loss: 0.5629292130470276
+epoch 66900  training loss: 0.0014686068752780557
+
+ 67%|███████████████████████████████████████████████████▌                         | 66932/100000 [17:18<07:37, 72.23it/s]
+epoch 67000  training loss: 0.004176532384008169
+epoch 67000  clean testing loss: 0.5561848878860474
+
+ 67%|███████████████████████████████████████████████████▋                         | 67076/100000 [17:20<07:31, 72.95it/s]
+epoch 67100  training loss: 0.0015487211057916284
+epoch 67100  clean testing loss: 0.5590741038322449
+epoch 67200  training loss: 0.003223288571462035
+
+
+ 67%|███████████████████████████████████████████████████▉                         | 67372/100000 [17:24<07:31, 72.24it/s]
+epoch 67300  training loss: 0.002567511750385165
+epoch 67300  clean testing loss: 0.5629532337188721
+epoch 67400  training loss: 0.0033852430060505867
+epoch 67400  clean testing loss: 0.5617220997810364
+epoch 67500  training loss: 0.0030374403577297926
+
+ 68%|███████████████████████████████████████████████████▉                         | 67516/100000 [17:26<07:24, 73.14it/s]
+epoch 67600  training loss: 0.006299852393567562
+
+ 68%|████████████████████████████████████████████████████                         | 67660/100000 [17:28<07:31, 71.57it/s]
+epoch 67700  training loss: 0.0018309190636500716
+epoch 67700  clean testing loss: 0.5632628798484802
+epoch 67800  training loss: 0.0026658945716917515
+
+ 68%|████████████████████████████████████████████████████▏                        | 67804/100000 [17:30<07:20, 73.09it/s]
+epoch 67900  training loss: 0.002952904673293233
+
+ 68%|████████████████████████████████████████████████████▎                        | 67948/100000 [17:32<07:22, 72.40it/s]
+epoch 68000  training loss: 0.0011706731747835875
+epoch 68000  clean testing loss: 0.5579272508621216
+
+ 68%|████████████████████████████████████████████████████▍                        | 68092/100000 [17:34<07:17, 72.91it/s]
+epoch 68100  training loss: 0.00182920484803617
+epoch 68100  clean testing loss: 0.5596094131469727
+epoch 68200  training loss: 0.003370998427271843
+
+ 68%|████████████████████████████████████████████████████▌                        | 68236/100000 [17:36<07:14, 73.16it/s]
+epoch 68300  training loss: 0.004017570987343788
+
+ 68%|████████████████████████████████████████████████████▋                        | 68380/100000 [17:38<07:14, 72.71it/s]
+epoch 68400  training loss: 0.003298235358670354
+epoch 68400  clean testing loss: 0.5590588450431824
+epoch 68500  training loss: 0.006315296515822411
+
+ 69%|████████████████████████████████████████████████████▊                        | 68532/100000 [17:40<07:13, 72.59it/s]
+epoch 68600  training loss: 0.0013363852631300688
+
+ 69%|████████████████████████████████████████████████████▉                        | 68676/100000 [17:42<07:11, 72.52it/s]
+epoch 68700  training loss: 0.0046059610322117805
+epoch 68700  clean testing loss: 0.5541293025016785
+epoch 68800  training loss: 0.0031123000662773848
+
+ 69%|████████████████████████████████████████████████████▉                        | 68820/100000 [17:44<07:11, 72.18it/s]
+epoch 68900  training loss: 0.0015428094193339348
+
+
+ 69%|█████████████████████████████████████████████████████▏                       | 69108/100000 [17:48<07:06, 72.38it/s]
+epoch 69000  training loss: 0.0012520524905994534
+epoch 69000  clean testing loss: 0.5512311458587646
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 69100  training loss: 0.0019962063524872065
+
+ 69%|█████████████████████████████████████████████████████▎                       | 69252/100000 [17:50<07:06, 72.07it/s]
+epoch 69200  training loss: 0.0038354708813130856
+
+ 69%|█████████████████████████████████████████████████████▍                       | 69396/100000 [17:52<06:58, 73.21it/s]
+epoch 69300  training loss: 0.001645664102397859
+
+ 70%|█████████████████████████████████████████████████████▌                       | 69540/100000 [17:54<07:07, 71.29it/s]
+epoch 69400  training loss: 0.0026301289908587933
+epoch 69400  clean testing loss: 0.5533769726753235
+epoch 69500  training loss: 0.0022691076155751944
+
+ 70%|█████████████████████████████████████████████████████▋                       | 69684/100000 [17:56<07:02, 71.68it/s]
+epoch 69600  training loss: 0.00401304429396987
+
+ 70%|█████████████████████████████████████████████████████▊                       | 69828/100000 [17:58<07:02, 71.42it/s]
+epoch 69700  training loss: 0.0030460048001259565
+epoch 69700  clean testing loss: 0.5555506348609924
+epoch 69800  training loss: 0.002654899610206485
+
+ 70%|█████████████████████████████████████████████████████▉                       | 69980/100000 [18:00<06:53, 72.60it/s]
+epoch 69900  training loss: 0.007183106150478125
+epoch 69900  clean testing loss: 0.5546401143074036
+epoch 70000  training loss: 0.002628056099638343
+epoch 70000  clean testing loss: 0.5531901121139526
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 70100  training loss: 0.002828265307471156
+
+ 70%|█████████████████████████████████████████████████████▉                       | 70116/100000 [18:02<07:00, 71.01it/s]
+epoch 70200  training loss: 0.002965630730614066
+
+ 70%|██████████████████████████████████████████████████████                       | 70268/100000 [18:04<06:53, 71.94it/s]
+epoch 70300  training loss: 0.003881908254697919
+epoch 70300  clean testing loss: 0.5543844699859619
+epoch 70400  training loss: 0.004580440931022167
+
+ 70%|██████████████████████████████████████████████████████▏                      | 70412/100000 [18:06<06:45, 72.94it/s]
+epoch 70500  training loss: 0.002315893303602934
+
+ 71%|██████████████████████████████████████████████████████▎                      | 70556/100000 [18:08<06:46, 72.43it/s]
+epoch 70600  training loss: 0.004614727571606636
+
+ 71%|██████████████████████████████████████████████████████▍                      | 70700/100000 [18:10<06:45, 72.26it/s]
+epoch 70700  training loss: 0.0046186321415007114
+epoch 70700  clean testing loss: 0.5568332076072693
+epoch 70800  training loss: 0.0023163785226643085
+
+ 71%|██████████████████████████████████████████████████████▌                      | 70844/100000 [18:12<06:48, 71.40it/s]
+epoch 70900  training loss: 0.0022861671168357134
+
+ 71%|██████████████████████████████████████████████████████▋                      | 70988/100000 [18:14<06:50, 70.71it/s]
+epoch 71000  training loss: 0.004281389527022839
+epoch 71000  clean testing loss: 0.5574634671211243
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 71100  training loss: 0.002561605302616954
+
+ 71%|██████████████████████████████████████████████████████▊                      | 71132/100000 [18:16<06:37, 72.55it/s]
+epoch 71200  training loss: 0.004654770251363516
+
+ 71%|██████████████████████████████████████████████████████▉                      | 71276/100000 [18:18<06:40, 71.79it/s]
+epoch 71300  training loss: 0.0022397043649107218
+epoch 71300  clean testing loss: 0.556280255317688
+epoch 71400  training loss: 0.002662363927811384
+
+ 71%|██████████████████████████████████████████████████████▉                      | 71420/100000 [18:20<06:29, 73.34it/s]
+epoch 71500  training loss: 0.0023226195480674505
+
+ 72%|███████████████████████████████████████████████████████                      | 71564/100000 [18:22<06:32, 72.47it/s]
+epoch 71600  training loss: 0.0027784036938101053
+epoch 71600  clean testing loss: 0.5577632188796997
+epoch 71700  training loss: 0.0012097939616069198
+
+ 72%|███████████████████████████████████████████████████████▏                     | 71708/100000 [18:24<06:26, 73.24it/s]
+epoch 71800  training loss: 0.002280528424307704
+
+ 72%|███████████████████████████████████████████████████████▎                     | 71860/100000 [18:26<06:33, 71.47it/s]
+epoch 71900  training loss: 0.002165498910471797
+
+ 72%|███████████████████████████████████████████████████████▍                     | 72004/100000 [18:28<06:31, 71.56it/s]
+epoch 72000  training loss: 0.0031184472609311342
+epoch 72000  clean testing loss: 0.5584749579429626
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 72100  training loss: 0.003651881357654929
+
+ 72%|███████████████████████████████████████████████████████▌                     | 72148/100000 [18:30<06:23, 72.66it/s]
+epoch 72200  training loss: 0.0023492511827498674
+
+ 72%|███████████████████████████████████████████████████████▋                     | 72292/100000 [18:32<06:20, 72.85it/s]
+epoch 72300  training loss: 0.002278575673699379
+epoch 72300  clean testing loss: 0.5615323781967163
+epoch 72400  training loss: 0.002421754412353039
+
+ 72%|███████████████████████████████████████████████████████▊                     | 72436/100000 [18:34<06:27, 71.17it/s]
+epoch 72500  training loss: 0.0011991780484095216
+
+ 73%|███████████████████████████████████████████████████████▉                     | 72580/100000 [18:36<06:23, 71.47it/s]
+epoch 72600  training loss: 0.002196758519858122
+epoch 72600  clean testing loss: 0.5612884163856506
+epoch 72700  training loss: 0.002629329916089773
+
+ 73%|███████████████████████████████████████████████████████▉                     | 72724/100000 [18:38<06:17, 72.16it/s]
+epoch 72800  training loss: 0.0036173686385154724
+
+ 73%|████████████████████████████████████████████████████████                     | 72868/100000 [18:40<06:13, 72.60it/s]
+epoch 72900  training loss: 0.001958215143531561
+epoch 72900  clean testing loss: 0.5650109648704529
+epoch 73000  training loss: 0.0023214509710669518
+epoch 73000  clean testing loss: 0.566122829914093
+
+ 73%|████████████████████████████████████████████████████████▏                    | 73012/100000 [18:42<06:18, 71.24it/s]
+epoch 73100  training loss: 0.0023214342072606087
+
+ 73%|████████████████████████████████████████████████████████▎                    | 73156/100000 [18:44<06:06, 73.16it/s]
+epoch 73200  training loss: 0.0025141446385532618
+
+
+ 73%|████████████████████████████████████████████████████████▌                    | 73452/100000 [18:48<06:03, 73.00it/s]
+epoch 73300  training loss: 0.002200909424573183
+epoch 73300  clean testing loss: 0.5622476935386658
+epoch 73400  training loss: 0.0049607218243181705
+
+ 74%|████████████████████████████████████████████████████████▋                    | 73596/100000 [18:50<06:02, 72.82it/s]
+epoch 73500  training loss: 0.003911672160029411
+
+ 74%|████████████████████████████████████████████████████████▊                    | 73740/100000 [18:52<06:08, 71.26it/s]
+epoch 73600  training loss: 0.0022258982062339783
+epoch 73600  clean testing loss: 0.5631871223449707
+epoch 73700  training loss: 0.001840377226471901
+
+ 74%|████████████████████████████████████████████████████████▉                    | 73884/100000 [18:54<06:00, 72.49it/s]
+epoch 73800  training loss: 0.0014432842144742608
+
+ 74%|█████████████████████████████████████████████████████████                    | 74028/100000 [18:56<06:03, 71.51it/s]
+epoch 73900  training loss: 0.0023362026549875736
+epoch 73900  clean testing loss: 0.5606095790863037
+epoch 74000  training loss: 0.0022338517010211945
+epoch 74000  clean testing loss: 0.5616147518157959
+
+ 74%|█████████████████████████████████████████████████████████                    | 74180/100000 [18:58<05:52, 73.27it/s]
+epoch 74100  training loss: 0.0023425959516316652
+
+ 74%|█████████████████████████████████████████████████████████▏                   | 74324/100000 [19:00<05:51, 73.12it/s]
+epoch 74200  training loss: 0.002230342011898756
+epoch 74200  clean testing loss: 0.5611340403556824
+epoch 74300  training loss: 0.002256553852930665
+
+ 74%|█████████████████████████████████████████████████████████▎                   | 74468/100000 [19:02<05:56, 71.55it/s]
+epoch 74400  training loss: 0.001159773557446897
+
+ 75%|█████████████████████████████████████████████████████████▍                   | 74612/100000 [19:04<05:47, 73.15it/s]
+epoch 74500  training loss: 0.002799090463668108
+epoch 74500  clean testing loss: 0.558685302734375
+epoch 74600  training loss: 0.0023435212206095457
+
+ 75%|█████████████████████████████████████████████████████████▌                   | 74764/100000 [19:06<05:44, 73.24it/s]
+epoch 74700  training loss: 0.0026233794633299112
+
+ 75%|█████████████████████████████████████████████████████████▋                   | 74908/100000 [19:08<05:46, 72.41it/s]
+epoch 74800  training loss: 0.0015079908771440387
+
+ 75%|█████████████████████████████████████████████████████████▊                   | 75052/100000 [19:10<05:43, 72.61it/s]
+epoch 74900  training loss: 0.0025316844694316387
+epoch 74900  clean testing loss: 0.5636184811592102
+epoch 75000  training loss: 0.002240079687908292
+epoch 75000  clean testing loss: 0.5616532564163208
+
+ 75%|█████████████████████████████████████████████████████████▉                   | 75196/100000 [19:12<05:42, 72.37it/s]
+epoch 75100  training loss: 0.002237703651189804
+
+ 75%|█████████████████████████████████████████████████████████▉                   | 75260/100000 [19:13<05:43, 71.98it/s]
+epoch 75200  training loss: 0.0013291671639308333
+
+
+ 75%|██████████████████████████████████████████████████████████                   | 75427/100000 [19:20<05:48, 70.48it/s]
+epoch 75300  training loss: 0.0022083104122430086
+epoch 75300  clean testing loss: 0.5631619095802307
+epoch 75400  training loss: 0.002498297719284892
+
+ 76%|██████████████████████████████████████████████████████████▏                  | 75571/100000 [19:22<05:36, 72.52it/s]
+epoch 75500  training loss: 0.0024850245099514723
+
+ 76%|██████████████████████████████████████████████████████████▎                  | 75715/100000 [19:24<05:40, 71.32it/s]
+epoch 75600  training loss: 0.0022939087357372046
+epoch 75600  clean testing loss: 0.5581921935081482
+epoch 75700  training loss: 0.002227057935670018
+
+ 76%|██████████████████████████████████████████████████████████▍                  | 75867/100000 [19:26<05:29, 73.34it/s]
+epoch 75800  training loss: 0.0022663504350930452
+
+ 76%|██████████████████████████████████████████████████████████▌                  | 76011/100000 [19:28<05:35, 71.48it/s]
+epoch 75900  training loss: 0.001797054661437869
+
+ 76%|██████████████████████████████████████████████████████████▋                  | 76155/100000 [19:30<05:36, 70.87it/s]
+epoch 76000  training loss: 0.0021577642764896154
+epoch 76000  clean testing loss: 0.5617236495018005
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 76100  training loss: 0.0022741404827684164
+
+ 76%|██████████████████████████████████████████████████████████▊                  | 76299/100000 [19:32<05:28, 72.13it/s]
+epoch 76200  training loss: 0.0010998822981491685
+
+ 76%|██████████████████████████████████████████████████████████▊                  | 76443/100000 [19:34<05:29, 71.45it/s]
+epoch 76300  training loss: 0.002238969085738063
+epoch 76300  clean testing loss: 0.5638465881347656
+epoch 76400  training loss: 0.0021569912787526846
+
+ 77%|██████████████████████████████████████████████████████████▉                  | 76587/100000 [19:36<05:28, 71.36it/s]
+epoch 76500  training loss: 0.002714155474677682
+
+ 77%|███████████████████████████████████████████████████████████                  | 76731/100000 [19:38<05:23, 72.03it/s]
+epoch 76600  training loss: 0.003046087920665741
+epoch 76600  clean testing loss: 0.562078058719635
+epoch 76700  training loss: 0.0023458318319171667
+
+ 77%|███████████████████████████████████████████████████████████▏                 | 76875/100000 [19:40<05:21, 71.83it/s]
+epoch 76800  training loss: 0.0013531309086829424
+
+ 77%|███████████████████████████████████████████████████████████▎                 | 77019/100000 [19:42<05:23, 70.98it/s]
+epoch 76900  training loss: 0.004375449847429991
+
+ 77%|███████████████████████████████████████████████████████████▎                 | 77099/100000 [19:43<05:13, 73.04it/s]
+epoch 77000  training loss: 0.0025231586769223213
+epoch 77000  clean testing loss: 0.5607770681381226
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 77100  training loss: 0.0022117248736321926
+
+ 77%|███████████████████████████████████████████████████████████▌                 | 77307/100000 [19:46<05:10, 73.09it/s]
+epoch 77200  training loss: 0.002318143378943205
+
+ 77%|███████████████████████████████████████████████████████████▋                 | 77459/100000 [19:48<05:10, 72.52it/s]
+epoch 77300  training loss: 0.0023089582100510597
+epoch 77300  clean testing loss: 0.5604206323623657
+epoch 77400  training loss: 0.00218998733907938
+
+ 77%|███████████████████████████████████████████████████████████▋                 | 77499/100000 [19:49<05:14, 71.53it/s]
+epoch 77500  training loss: 0.0022159586660563946
+
+ 78%|███████████████████████████████████████████████████████████▉                 | 77819/100000 [19:53<05:09, 71.77it/s]
+epoch 77600  training loss: 0.002486763522028923
+epoch 77600  clean testing loss: 0.5600676536560059
+epoch 77700  training loss: 0.0012640508357435465
+epoch 77700  clean testing loss: 0.5576387047767639
+epoch 77800  training loss: 0.002047996735200286
+
+ 78%|████████████████████████████████████████████████████████████                 | 77963/100000 [19:55<05:03, 72.50it/s]
+epoch 77900  training loss: 0.0021333417389541864
+
+ 78%|████████████████████████████████████████████████████████████                 | 77995/100000 [19:56<05:02, 72.84it/s]
+epoch 78000  training loss: 0.0022683285642415285
+epoch 78000  clean testing loss: 0.5603602528572083
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 78100  training loss: 0.002189297927543521
+
+ 78%|████████████████████████████████████████████████████████████▏                | 78123/100000 [20:19<06:28, 56.29it/s]
+epoch 78200  training loss: 0.0021479916758835316
+
+ 78%|████████████████████████████████████████████████████████████▎                | 78267/100000 [20:21<04:59, 72.53it/s]
+epoch 78300  training loss: 0.0016651299083605409
+epoch 78300  clean testing loss: 0.5646533370018005
+epoch 78400  training loss: 0.0021885621827095747
+
+ 78%|████████████████████████████████████████████████████████████▍                | 78419/100000 [20:23<04:55, 73.05it/s]
+epoch 78500  training loss: 0.004561298992484808
+
+
+ 79%|████████████████████████████████████████████████████████████▌                | 78683/100000 [20:27<04:55, 72.17it/s]
+epoch 78600  training loss: 0.002251940779387951
+epoch 78600  clean testing loss: 0.5619983077049255
+epoch 78700  training loss: 0.0020430460572242737
+epoch 78700  clean testing loss: 0.5617036819458008
+epoch 78800  training loss: 0.0017230188241228461
+epoch 78800  clean testing loss: 0.561743974685669
+epoch 78900  training loss: 0.0023485927376896143
+epoch 78900  clean testing loss: 0.5603721141815186
+epoch 79000  training loss: 0.0028102444484829903
+epoch 79000  clean testing loss: 0.5601081848144531
+
+ 79%|████████████████████████████████████████████████████████████▊                | 78995/100000 [20:31<04:50, 72.40it/s]
+epoch 79100  training loss: 0.002168366452679038
+
+ 79%|████████████████████████████████████████████████████████████▉                | 79147/100000 [20:33<04:47, 72.45it/s]
+epoch 79200  training loss: 0.0021991042885929346
+epoch 79200  clean testing loss: 0.558218777179718
+epoch 79300  training loss: 0.0022187884896993637
+
+ 79%|█████████████████████████████████████████████████████████████                | 79291/100000 [20:35<04:48, 71.82it/s]
+epoch 79400  training loss: 0.0029261400923132896
+
+ 79%|█████████████████████████████████████████████████████████████▏               | 79435/100000 [20:37<04:41, 73.09it/s]
+epoch 79500  training loss: 0.00677950493991375
+
+ 80%|█████████████████████████████████████████████████████████████▎               | 79579/100000 [20:39<04:41, 72.64it/s]
+epoch 79600  training loss: 0.003852063324302435
+epoch 79600  clean testing loss: 0.5591002702713013
+epoch 79700  training loss: 0.0015968420775607228
+
+ 80%|█████████████████████████████████████████████████████████████▍               | 79723/100000 [20:41<04:43, 71.54it/s]
+epoch 79800  training loss: 0.0024384218268096447
+
+ 80%|█████████████████████████████████████████████████████████████▍               | 79867/100000 [20:43<04:41, 71.60it/s]
+epoch 79900  training loss: 0.0047537884674966335
+epoch 79900  clean testing loss: 0.5585672855377197
+epoch 80000  training loss: 0.0032296953722834587
+
+ 80%|█████████████████████████████████████████████████████████████▌               | 79995/100000 [20:45<04:36, 72.32it/s]
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 80100  training loss: 0.002297121798619628
+
+ 80%|█████████████████████████████████████████████████████████████▋               | 80099/100000 [20:47<04:39, 71.23it/s]
+epoch 80200  training loss: 0.002140746219083667
+
+ 80%|█████████████████████████████████████████████████████████████▊               | 80251/100000 [20:49<04:32, 72.53it/s]
+epoch 80300  training loss: 0.002321532228961587
+
+ 80%|█████████████████████████████████████████████████████████████▉               | 80379/100000 [20:51<04:32, 72.08it/s]
+epoch 80400  training loss: 0.0023881690576672554
+epoch 80400  clean testing loss: 0.5592852234840393
+epoch 80500  training loss: 0.0045734853483736515
+
+ 81%|██████████████████████████████████████████████████████████████               | 80539/100000 [20:53<04:28, 72.61it/s]
+epoch 80600  training loss: 0.00219524628482759
+
+ 81%|██████████████████████████████████████████████████████████████▏              | 80683/100000 [20:55<04:22, 73.54it/s]
+epoch 80700  training loss: 0.00694394763559103
+epoch 80700  clean testing loss: 0.5571720600128174
+epoch 80800  training loss: 0.002129301894456148
+
+ 81%|██████████████████████████████████████████████████████████████▏              | 80827/100000 [20:57<04:25, 72.16it/s]
+epoch 80900  training loss: 0.0024281819351017475
+
+ 81%|██████████████████████████████████████████████████████████████▎              | 80971/100000 [20:59<04:21, 72.69it/s]
+epoch 81000  training loss: 0.0037182995583862066
+epoch 81000  clean testing loss: 0.5574657320976257
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size50_noise1.00e-01_invop1 ...
+epoch 81100  training loss: 0.0029659317806363106
+
+ 81%|██████████████████████████████████████████████████████████████▍              | 81115/100000 [21:01<04:22, 71.88it/s]
+epoch 81200  training loss: 0.0028676316142082214
+epoch 81200  clean testing loss: 0.5572569966316223
+Validation loss variation < 1e-6, trained to interpolation, stop
+
+ 81%|██████████████████████████████████████████████████████████████▌              | 81200/100000 [21:03<04:52, 64.28it/s]

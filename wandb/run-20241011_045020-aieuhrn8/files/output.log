@@ -1,0 +1,22 @@
+
+  0%|                                                                      | 67/100000 [00:01<31:01, 53.68it/s]
+epoch 0  training loss: 71.40502166748047
+epoch 0  clean testing loss: nan
+
+  0%|                                                                     | 175/100000 [00:03<31:02, 53.59it/s]
+epoch 100  training loss: nan
+  0%|▏                                                                    | 242/100000 [00:04<31:55, 52.08it/s]
+Traceback (most recent call last):
+  File "/home/howon/iclr25-exp/nn_exp.py", line 282, in <module>
+    losses = closure()
+  File "/home/howon/iclr25-exp/nn_exp.py", line 271, in closure
+    losses = compute_loss(train_x, train_y, inv_op_power)
+  File "/home/howon/iclr25-exp/nn_exp.py", line 236, in compute_loss
+    ux  = torch.autograd.grad(predict_y, train_x,grad_outputs=v,create_graph=True)[0]
+  File "/home/howon/.conda/envs/cs552/lib/python3.10/site-packages/torch/autograd/__init__.py", line 412, in grad
+    result = _engine_run_backward(
+  File "/home/howon/.conda/envs/cs552/lib/python3.10/site-packages/torch/autograd/graph.py", line 744, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+KeyboardInterrupt
+epoch 200  training loss: nan
+epoch 200  clean testing loss: nan

@@ -1,0 +1,97 @@
+
+  1%|▋                                                                                                                      | 558/100000 [00:01<03:06, 531.87it/s]
+epoch 0  training loss: inf
+epoch 0  clean testing loss: nan
+epoch 100  training loss: nan
+epoch 100  clean testing loss: nan
+epoch 200  training loss: nan
+epoch 200  clean testing loss: nan
+epoch 300  training loss: nan
+epoch 300  clean testing loss: nan
+epoch 400  training loss: nan
+epoch 400  clean testing loss: nan
+epoch 500  training loss: nan
+epoch 500  clean testing loss: nan
+epoch 600  training loss: nan
+epoch 600  clean testing loss: nan
+epoch 700  training loss: nan
+epoch 700  clean testing loss: nan
+epoch 800  training loss: nan
+
+  2%|█▉                                                                                                                    | 1676/100000 [00:03<02:56, 556.80it/s]
+epoch 900  training loss: nan
+epoch 900  clean testing loss: nan
+epoch 1000  training loss: nan
+epoch 1000  clean testing loss: nan
+epoch 1100  training loss: nan
+epoch 1100  clean testing loss: nan
+epoch 1200  training loss: nan
+epoch 1200  clean testing loss: nan
+epoch 1300  training loss: nan
+epoch 1300  clean testing loss: nan
+epoch 1400  training loss: nan
+epoch 1400  clean testing loss: nan
+epoch 1500  training loss: nan
+epoch 1500  clean testing loss: nan
+epoch 1600  training loss: nan
+epoch 1600  clean testing loss: nan
+epoch 1700  training loss: nan
+epoch 1700  clean testing loss: nan
+epoch 1800  training loss: nan
+epoch 1800  clean testing loss: nan
+epoch 1900  training loss: nan
+
+  3%|███▎                                                                                                                  | 2799/100000 [00:05<02:54, 557.92it/s]
+epoch 2000  training loss: nan
+epoch 2000  clean testing loss: nan
+epoch 2100  training loss: nan
+epoch 2100  clean testing loss: nan
+epoch 2200  training loss: nan
+epoch 2200  clean testing loss: nan
+epoch 2300  training loss: nan
+epoch 2300  clean testing loss: nan
+epoch 2400  training loss: nan
+epoch 2400  clean testing loss: nan
+epoch 2500  training loss: nan
+epoch 2500  clean testing loss: nan
+epoch 2600  training loss: nan
+epoch 2600  clean testing loss: nan
+epoch 2700  training loss: nan
+epoch 2700  clean testing loss: nan
+epoch 2800  training loss: nan
+epoch 2800  clean testing loss: nan
+epoch 2900  training loss: nan
+epoch 2900  clean testing loss: nan
+epoch 3000  training loss: nan
+
+  4%|████▌                                                                                                                 | 3919/100000 [00:07<02:52, 556.66it/s]
+epoch 3100  training loss: nan
+epoch 3100  clean testing loss: nan
+epoch 3200  training loss: nan
+epoch 3200  clean testing loss: nan
+epoch 3300  training loss: nan
+epoch 3300  clean testing loss: nan
+epoch 3400  training loss: nan
+epoch 3400  clean testing loss: nan
+epoch 3500  training loss: nan
+epoch 3500  clean testing loss: nan
+epoch 3600  training loss: nan
+epoch 3600  clean testing loss: nan
+epoch 3700  training loss: nan
+epoch 3700  clean testing loss: nan
+epoch 3800  training loss: nan
+epoch 3800  clean testing loss: nan
+epoch 3900  training loss: nan
+epoch 3900  clean testing loss: nan
+epoch 4000  training loss: nan
+epoch 4000  clean testing loss: nan
+epoch 4100  training loss: nan
+  4%|█████                                                                                                                 | 4286/100000 [00:08<03:02, 525.81it/s]
+Traceback (most recent call last):
+  File "/home/howon/aistats25-exp/nn_exp.py", line 247, in <module>
+    test_losses = compute_loss(test_x, test_y, inv_op_power)
+  File "/home/howon/aistats25-exp/nn_exp.py", line 204, in compute_loss
+    losses = torch.sum((predict_y - train_y) ** 2) / args.sample_size
+KeyboardInterrupt
+epoch 4200  training loss: nan
+epoch 4200  clean testing loss: nan

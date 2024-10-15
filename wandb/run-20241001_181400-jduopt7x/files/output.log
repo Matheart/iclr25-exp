@@ -1,0 +1,23 @@
+
+  0%|                                                                                | 87/100000 [00:01<23:28, 70.91it/s]
+epoch 0  training loss: 46.42289352416992
+epoch 0  clean testing loss: 42.299171447753906
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_sin_size500_noise3.00e-01_invop1 ...
+epoch 100  training loss: 0.2986101806163788
+
+  0%|▏                                                                              | 231/100000 [00:03<23:02, 72.16it/s]
+epoch 200  training loss: 0.27562978863716125
+
+  0%|▎                                                                              | 370/100000 [00:05<26:49, 61.90it/s]
+epoch 300  training loss: 0.27067917585372925
+epoch 300  clean testing loss: 0.024239804595708847
+epoch 400  training loss: 0.26797425746917725
+
+  0%|▍                                                                              | 488/100000 [00:07<28:08, 58.93it/s]
+epoch 500  training loss: 0.2661002576351166
+
+  1%|▍                                                                              | 600/100000 [00:09<26:15, 63.10it/s]
+epoch 600  training loss: 0.26453346014022827
+epoch 600  clean testing loss: 0.027256688103079796
+Validation loss variation < 1e-6, trained to interpolation, stop
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_sin_size500_noise3.00e-01_invop1 ...

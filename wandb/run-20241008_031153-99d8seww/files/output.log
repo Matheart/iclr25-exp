@@ -1,0 +1,51 @@
+
+  0%| | 31/100000 [00:01<1:06:28, 25.0
+epoch 0  training loss: 80.88353729248047
+epoch 0  clean testing loss: nan
+
+  0%| | 82/100000 [00:03<1:02:57, 26.4
+epoch 100  training loss: nan
+
+
+  0%| | 187/100000 [00:07<1:03:27, 26.
+epoch 200  training loss: nan
+
+
+  0%| | 292/100000 [00:11<1:03:03, 26.
+epoch 300  training loss: nan
+
+
+  0%| | 397/100000 [00:15<1:03:04, 26.
+epoch 400  training loss: nan
+
+
+  1%| | 502/100000 [00:19<1:03:21, 26.
+epoch 500  training loss: nan
+
+
+  1%| | 604/100000 [00:23<1:04:54, 25.
+epoch 600  training loss: nan
+
+
+  1%| | 709/100000 [00:27<1:08:44, 24.
+epoch 700  training loss: nan
+
+
+  1%| | 805/100000 [00:31<1:06:10, 24.
+epoch 800  training loss: nan
+
+
+  1%| | 904/100000 [00:35<1:08:57, 23.
+epoch 900  training loss: nan
+
+  1%| | 956/100000 [00:37<1:04:59, 25.
+Traceback (most recent call last):
+  File "/home/howon/aistats25-exp/nn_exp.py", line 280, in <module>
+    test_losses = compute_loss(test_x, test_y, inv_op_power)
+  File "/home/howon/aistats25-exp/nn_exp.py", line 239, in compute_loss
+    uxx_tem = torch.autograd.grad(ux_tem,train_x,grad_outputs=v,create_graph=True)[0]
+  File "/home/howon/.conda/envs/cs552/lib/python3.10/site-packages/torch/autograd/__init__.py", line 412, in grad
+    result = _engine_run_backward(
+  File "/home/howon/.conda/envs/cs552/lib/python3.10/site-packages/torch/autograd/graph.py", line 744, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+KeyboardInterrupt

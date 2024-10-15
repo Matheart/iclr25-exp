@@ -1,0 +1,20 @@
+2024-10-12 05:06:14,665 INFO    MainThread:2235744 [wandb_setup.py:_flush():76] Current SDK version is 0.17.0
+2024-10-12 05:06:14,665 INFO    MainThread:2235744 [wandb_setup.py:_flush():76] Configure stats pid to 2235744
+2024-10-12 05:06:14,665 INFO    MainThread:2235744 [wandb_setup.py:_flush():76] Loading settings from /home/howon/.config/wandb/settings
+2024-10-12 05:06:14,666 INFO    MainThread:2235744 [wandb_setup.py:_flush():76] Loading settings from /home/howon/iclr25-exp/wandb/settings
+2024-10-12 05:06:14,666 INFO    MainThread:2235744 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2024-10-12 05:06:14,666 INFO    MainThread:2235744 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-10-12 05:06:14,667 INFO    MainThread:2235744 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'nn_exp.py', 'program_abspath': '/home/howon/iclr25-exp/nn_exp.py', 'program': '/home/howon/iclr25-exp/nn_exp.py'}
+2024-10-12 05:06:14,667 INFO    MainThread:2235744 [wandb_setup.py:_flush():76] Applying login settings: {}
+2024-10-12 05:06:14,667 INFO    MainThread:2235744 [wandb_init.py:_log_setup():520] Logging user logs to /home/howon/iclr25-exp/wandb/run-20241012_050544-qp9zgtxp/logs/debug.log
+2024-10-12 05:06:14,667 INFO    MainThread:2235744 [wandb_init.py:_log_setup():521] Logging internal logs to /home/howon/iclr25-exp/wandb/run-20241012_050544-qp9zgtxp/logs/debug-internal.log
+2024-10-12 05:06:14,667 INFO    MainThread:2235744 [wandb_init.py:init():560] calling init triggers
+2024-10-12 05:06:14,668 INFO    MainThread:2235744 [wandb_init.py:init():567] wandb.init called with sweep_config: {}
+config: {}
+2024-10-12 05:06:14,668 INFO    MainThread:2235744 [wandb_init.py:init():610] starting backend
+2024-10-12 05:06:14,669 INFO    MainThread:2235744 [wandb_init.py:init():614] setting up manager
+2024-10-12 05:06:14,678 INFO    MainThread:2235744 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-12 05:06:14,680 INFO    MainThread:2235744 [wandb_init.py:init():622] backend started and connected
+2024-10-12 05:06:14,689 INFO    MainThread:2235744 [wandb_init.py:init():711] updated telemetry
+2024-10-12 05:06:14,690 INFO    MainThread:2235744 [wandb_init.py:init():744] communicating run to backend with 90.0 second timeout
+2024-10-12 05:06:14,973 INFO    MainThread:2235744 [wandb_run.py:_on_init():2396] communicating current version

@@ -1,0 +1,11 @@
+python nn_exp.py --noise_level 1e-5 --folder interpolate_plot  --inv_op_power 1 --num_layer 8  --width 2048
+python nn_exp.py --noise_level 5e-5 --folder interpolate_plot  --inv_op_power 1 --num_layer 8  --width 2048
+python nn_exp.py --noise_level 1e-4 --folder interpolate_plot  --inv_op_power 1 --num_layer 8  --width 2048
+python nn_exp.py --noise_level 5e-4 --folder interpolate_plot --inv_op_power 1 --num_layer 8  --width 2048
+python nn_exp.py --noise_level 1e-3 --folder interpolate_plot --inv_op_power 1  --num_layer 8  --width 2048
+python nn_exp.py --noise_level 5e-3 --folder interpolate_plot --inv_op_power 1 --num_layer 8  --width 2048
+python nn_exp.py --noise_level 1e-2 --folder interpolate_plot --inv_op_power 1 --num_layer 8  --width 2048
+python nn_exp.py --noise_level 5e-2 --folder interpolate_plot --inv_op_power 1 --num_layer 8  --width 2048
+python nn_exp.py --noise_level 1e-1 --folder interpolate_plot --inv_op_power 1 --num_layer 8  --width 2048
+python nn_exp.py --noise_level 5e-1 --folder interpolate_plot --inv_op_power 1 --num_layer 8  --width 2048
+python nn_exp.py --noise_level 1 --folder interpolate_plot --inv_op_power 1  --num_layer 8  --width 2048

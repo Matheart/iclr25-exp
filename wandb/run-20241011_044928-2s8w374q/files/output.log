@@ -1,0 +1,69 @@
+
+  0%|                                                                      | 66/100000 [00:01<31:29, 52.89it/s]
+epoch 0  training loss: 100.76805114746094
+epoch 0  clean testing loss: nan
+
+  0%|                                                                     | 174/100000 [00:03<30:59, 53.68it/s]
+epoch 100  training loss: nan
+
+  0%|▏                                                                    | 282/100000 [00:05<30:48, 53.95it/s]
+epoch 200  training loss: nan
+
+  0%|▎                                                                    | 390/100000 [00:07<30:42, 54.07it/s]
+epoch 300  training loss: nan
+epoch 300  clean testing loss: nan
+epoch 400  training loss: nan
+
+  0%|▎                                                                    | 498/100000 [00:09<30:24, 54.55it/s]
+epoch 500  training loss: nan
+
+  1%|▍                                                                    | 606/100000 [00:11<30:34, 54.17it/s]
+epoch 600  training loss: nan
+
+  1%|▍                                                                    | 714/100000 [00:13<30:33, 54.15it/s]
+epoch 700  training loss: nan
+
+  1%|▌                                                                    | 822/100000 [00:15<31:00, 53.29it/s]
+epoch 800  training loss: nan
+
+  1%|▋                                                                    | 930/100000 [00:17<31:10, 52.95it/s]
+epoch 900  training loss: nan
+
+  1%|▋                                                                   | 1038/100000 [00:19<31:03, 53.10it/s]
+epoch 1000  training loss: nan
+epoch 1000  clean testing loss: nan
+
+  1%|▊                                                                   | 1146/100000 [00:21<30:18, 54.35it/s]
+epoch 1100  training loss: nan
+
+  1%|▊                                                                   | 1248/100000 [00:23<30:26, 54.08it/s]
+epoch 1200  training loss: nan
+
+  1%|▉                                                                   | 1356/100000 [00:25<30:35, 53.74it/s]
+epoch 1300  training loss: nan
+
+  1%|▉                                                                   | 1464/100000 [00:27<31:30, 52.11it/s]
+epoch 1400  training loss: nan
+  2%|█                                                                   | 1518/100000 [00:28<31:15, 52.50it/s][34m[1mwandb[39m[22m: 429 encountered (Filestream rate limit exceeded, retrying in 2.4 seconds.), retrying request
+  2%|█                                                                   | 1572/100000 [00:29<30:08, 54.43it/s]
+epoch 1500  training loss: nan
+epoch 1500  clean testing loss: nan
+epoch 1600  training loss: nan
+
+  2%|█▏                                                                  | 1680/100000 [00:31<30:23, 53.92it/s]
+epoch 1700  training loss: nan
+
+  2%|█▏                                                                  | 1782/100000 [00:33<32:06, 50.98it/s]
+epoch 1800  training loss: nan
+  2%|█▎                                                                  | 1889/100000 [00:35<30:47, 53.10it/s]
+Traceback (most recent call last):
+  File "/home/howon/iclr25-exp/nn_exp.py", line 280, in <module>
+  File "/home/howon/iclr25-exp/nn_exp.py", line 270, in closure
+    model.train()
+  File "/home/howon/.conda/envs/cs552/lib/python3.10/site-packages/torch/_tensor.py", line 525, in backward
+    torch.autograd.backward(
+  File "/home/howon/.conda/envs/cs552/lib/python3.10/site-packages/torch/autograd/__init__.py", line 267, in backward
+    _engine_run_backward(
+  File "/home/howon/.conda/envs/cs552/lib/python3.10/site-packages/torch/autograd/graph.py", line 744, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+KeyboardInterrupt

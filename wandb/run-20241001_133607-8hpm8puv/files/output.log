@@ -1,0 +1,38 @@
+
+  0%|▏                                                                                 | 701/300000 [00:01<09:20, 533.61it/s]
+epoch 0  training loss: 0.4796338677406311
+epoch 0  clean testing loss: 0.5084396600723267
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size500_noise5.00e-03_invop0 ...
+epoch 100  training loss: 0.17580954730510712
+epoch 100  clean testing loss: 0.17880579829216003
+epoch 200  training loss: 0.09882214665412903
+epoch 200  clean testing loss: 0.10346587002277374
+epoch 300  training loss: 0.08424941450357437
+epoch 300  clean testing loss: 0.08838838338851929
+epoch 400  training loss: 0.07112547755241394
+epoch 400  clean testing loss: 0.0737580731511116
+epoch 500  training loss: 0.06089213490486145
+epoch 500  clean testing loss: 0.062094345688819885
+epoch 600  training loss: 0.054286301136016846
+epoch 600  clean testing loss: 0.054313693195581436
+epoch 700  training loss: 0.04987727105617523
+epoch 700  clean testing loss: 0.04895361512899399
+epoch 800  training loss: 0.04654359817504883
+
+  0%|▎                                                                                | 1349/300000 [00:02<09:18, 534.65it/s]
+epoch 900  training loss: 0.043774742633104324
+epoch 900  clean testing loss: 0.04192904755473137
+epoch 1000  training loss: 0.04140004888176918
+epoch 1000  clean testing loss: 0.03938167169690132
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size500_noise5.00e-03_invop0 ...
+epoch 1100  training loss: 0.03957748785614967
+epoch 1100  clean testing loss: 0.037445612251758575
+epoch 1200  training loss: 0.03783487528562546
+epoch 1200  clean testing loss: 0.03579893335700035
+epoch 1300  training loss: 0.03642995283007622
+epoch 1300  clean testing loss: 0.03444609418511391
+epoch 1400  training loss: 0.035192761570215225
+
+  0%|▍                                                                                | 1400/300000 [00:02<09:47, 508.44it/s]
+Validation loss variation < 1e-6, trained to interpolation, stop
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_relu_size500_noise5.00e-03_invop0 ...

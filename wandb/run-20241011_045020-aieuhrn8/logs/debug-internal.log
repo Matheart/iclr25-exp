@@ -1,0 +1,199 @@
+2024-10-11 04:50:20,717 INFO    StreamThr :1769875 [internal.py:wandb_internal():85] W&B internal server running at pid: 1769875, started at: 2024-10-11 04:50:20.693145
+2024-10-11 04:50:20,719 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: status
+2024-10-11 04:50:20,719 INFO    WriterThread:1769875 [datastore.py:open_for_write():87] open: /home/howon/iclr25-exp/wandb/run-20241011_045020-aieuhrn8/run-aieuhrn8.wandb
+2024-10-11 04:50:20,721 DEBUG   SenderThread:1769875 [sender.py:send():378] send: header
+2024-10-11 04:50:20,721 DEBUG   SenderThread:1769875 [sender.py:send():378] send: run
+2024-10-11 04:50:20,948 INFO    SenderThread:1769875 [dir_watcher.py:__init__():211] watching files in: /home/howon/iclr25-exp/wandb/run-20241011_045020-aieuhrn8/files
+2024-10-11 04:50:20,948 INFO    SenderThread:1769875 [sender.py:_start_run_threads():1123] run started: aieuhrn8 with start time 1728636620.69378
+2024-10-11 04:50:20,957 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: check_version
+2024-10-11 04:50:20,957 DEBUG   SenderThread:1769875 [sender.py:send_request():405] send_request: check_version
+2024-10-11 04:50:21,064 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: run_start
+2024-10-11 04:50:21,084 DEBUG   HandlerThread:1769875 [system_info.py:__init__():26] System info init
+2024-10-11 04:50:21,084 DEBUG   HandlerThread:1769875 [system_info.py:__init__():41] System info init done
+2024-10-11 04:50:21,084 INFO    HandlerThread:1769875 [system_monitor.py:start():194] Starting system monitor
+2024-10-11 04:50:21,084 INFO    SystemMonitor:1769875 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-10-11 04:50:21,084 INFO    HandlerThread:1769875 [system_monitor.py:probe():214] Collecting system info
+2024-10-11 04:50:21,085 INFO    SystemMonitor:1769875 [interfaces.py:start():188] Started cpu monitoring
+2024-10-11 04:50:21,085 INFO    SystemMonitor:1769875 [interfaces.py:start():188] Started disk monitoring
+2024-10-11 04:50:21,085 INFO    SystemMonitor:1769875 [interfaces.py:start():188] Started gpu monitoring
+2024-10-11 04:50:21,086 INFO    SystemMonitor:1769875 [interfaces.py:start():188] Started memory monitoring
+2024-10-11 04:50:21,087 INFO    SystemMonitor:1769875 [interfaces.py:start():188] Started network monitoring
+2024-10-11 04:50:21,134 DEBUG   HandlerThread:1769875 [system_info.py:probe():150] Probing system
+2024-10-11 04:50:21,136 DEBUG   HandlerThread:1769875 [gitlib.py:_init_repo():56] git repository is invalid
+2024-10-11 04:50:21,136 DEBUG   HandlerThread:1769875 [system_info.py:probe():198] Probing system done
+2024-10-11 04:50:21,136 DEBUG   HandlerThread:1769875 [system_monitor.py:probe():223] {'os': 'Linux-4.18.0-477.51.1.el8_8.x86_64-x86_64-with-glibc2.28', 'python': '3.10.14', 'heartbeatAt': '2024-10-11T08:50:21.134596', 'startedAt': '2024-10-11T08:50:20.667452', 'docker': None, 'cuda': None, 'args': ('--inv_op_power', '1', '--folder', 'new_plot', '--noise_level', '1', '--num_layer', '3', '--width', '512', '--act', 'relu11'), 'state': 'running', 'program': '/home/howon/iclr25-exp/nn_exp.py', 'codePathLocal': 'nn_exp.py', 'codePath': 'nn_exp.py', 'host': 'lh1200.arc-ts.umich.edu', 'username': 'howon', 'executable': '/home/howon/.conda/envs/cs552/bin/python', 'cpu_count': 64, 'cpu_count_logical': 64, 'cpu_freq': {'current': 3392.6486406249996, 'min': 3400.0, 'max': 3400.0}, 'cpu_freq_per_core': [{'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3300.002, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3300.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3300.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3254.345, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}, {'current': 3400.0, 'min': 3400.0, 'max': 3400.0}], 'disk': {'/': {'total': 19.990234375, 'used': 9.610736846923828}}, 'gpu': 'NVIDIA L40S', 'gpu_count': 1, 'gpu_devices': [{'name': 'NVIDIA L40S', 'memory_total': 48305799168}], 'memory': {'total': 503.03754806518555}}
+2024-10-11 04:50:21,136 INFO    HandlerThread:1769875 [system_monitor.py:probe():224] Finished collecting system info
+2024-10-11 04:50:21,136 INFO    HandlerThread:1769875 [system_monitor.py:probe():227] Publishing system info
+2024-10-11 04:50:21,136 DEBUG   HandlerThread:1769875 [system_info.py:_save_conda():207] Saving list of conda packages installed into the current environment
+2024-10-11 04:50:21,950 INFO    Thread-12 :1769875 [dir_watcher.py:_on_file_created():271] file/dir created: /home/howon/iclr25-exp/wandb/run-20241011_045020-aieuhrn8/files/conda-environment.yaml
+2024-10-11 04:50:24,908 DEBUG   HandlerThread:1769875 [system_info.py:_save_conda():222] Saving conda packages done
+2024-10-11 04:50:24,911 INFO    HandlerThread:1769875 [system_monitor.py:probe():229] Finished publishing system info
+2024-10-11 04:50:24,920 DEBUG   SenderThread:1769875 [sender.py:send():378] send: files
+2024-10-11 04:50:24,920 INFO    SenderThread:1769875 [sender.py:_save_file():1389] saving file wandb-metadata.json with policy now
+2024-10-11 04:50:24,952 INFO    Thread-12 :1769875 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/howon/iclr25-exp/wandb/run-20241011_045020-aieuhrn8/files/conda-environment.yaml
+2024-10-11 04:50:24,952 INFO    Thread-12 :1769875 [dir_watcher.py:_on_file_created():271] file/dir created: /home/howon/iclr25-exp/wandb/run-20241011_045020-aieuhrn8/files/wandb-metadata.json
+2024-10-11 04:50:25,108 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: python_packages
+2024-10-11 04:50:25,108 DEBUG   SenderThread:1769875 [sender.py:send_request():405] send_request: python_packages
+2024-10-11 04:50:25,108 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: stop_status
+2024-10-11 04:50:25,111 DEBUG   SenderThread:1769875 [sender.py:send_request():405] send_request: stop_status
+2024-10-11 04:50:25,213 INFO    wandb-upload_0:1769875 [upload_job.py:push():130] Uploaded file /tmp/tmpa7e30rkrwandb/p7aszj00-wandb-metadata.json
+2024-10-11 04:50:25,219 DEBUG   SenderThread:1769875 [sender.py:send():378] send: telemetry
+2024-10-11 04:50:25,752 DEBUG   SenderThread:1769875 [sender.py:send():378] send: telemetry
+2024-10-11 04:50:25,752 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: status_report
+2024-10-11 04:50:25,915 DEBUG   SenderThread:1769875 [sender.py:send():378] send: telemetry
+2024-10-11 04:50:25,953 INFO    Thread-12 :1769875 [dir_watcher.py:_on_file_created():271] file/dir created: /home/howon/iclr25-exp/wandb/run-20241011_045020-aieuhrn8/files/requirements.txt
+2024-10-11 04:50:26,339 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: partial_history
+2024-10-11 04:50:26,340 DEBUG   SenderThread:1769875 [sender.py:send():378] send: history
+2024-10-11 04:50:26,340 DEBUG   SenderThread:1769875 [sender.py:send_request():405] send_request: summary_record
+2024-10-11 04:50:26,343 INFO    SenderThread:1769875 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-10-11 04:50:26,954 INFO    Thread-12 :1769875 [dir_watcher.py:_on_file_created():271] file/dir created: /home/howon/iclr25-exp/wandb/run-20241011_045020-aieuhrn8/files/output.log
+2024-10-11 04:50:26,954 INFO    Thread-12 :1769875 [dir_watcher.py:_on_file_created():271] file/dir created: /home/howon/iclr25-exp/wandb/run-20241011_045020-aieuhrn8/files/wandb-summary.json
+2024-10-11 04:50:28,205 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: partial_history
+2024-10-11 04:50:28,206 DEBUG   SenderThread:1769875 [sender.py:send():378] send: history
+2024-10-11 04:50:28,206 DEBUG   SenderThread:1769875 [sender.py:send_request():405] send_request: summary_record
+2024-10-11 04:50:28,210 INFO    SenderThread:1769875 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-10-11 04:50:28,956 INFO    Thread-12 :1769875 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/howon/iclr25-exp/wandb/run-20241011_045020-aieuhrn8/files/output.log
+2024-10-11 04:50:28,956 INFO    Thread-12 :1769875 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/howon/iclr25-exp/wandb/run-20241011_045020-aieuhrn8/files/wandb-summary.json
+2024-10-11 04:50:30,049 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: partial_history
+2024-10-11 04:50:30,049 DEBUG   SenderThread:1769875 [sender.py:send():378] send: history
+2024-10-11 04:50:30,050 DEBUG   SenderThread:1769875 [sender.py:send_request():405] send_request: summary_record
+2024-10-11 04:50:30,052 INFO    SenderThread:1769875 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-10-11 04:50:30,798 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: status_report
+2024-10-11 04:50:30,830 DEBUG   SenderThread:1769875 [sender.py:send():378] send: exit
+2024-10-11 04:50:30,830 INFO    SenderThread:1769875 [sender.py:send_exit():585] handling exit code: 255
+2024-10-11 04:50:30,830 INFO    SenderThread:1769875 [sender.py:send_exit():587] handling runtime: 9
+2024-10-11 04:50:30,832 INFO    SenderThread:1769875 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-10-11 04:50:30,832 INFO    SenderThread:1769875 [sender.py:send_exit():593] send defer
+2024-10-11 04:50:30,832 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: defer
+2024-10-11 04:50:30,832 INFO    HandlerThread:1769875 [handler.py:handle_request_defer():184] handle defer: 0
+2024-10-11 04:50:30,833 DEBUG   SenderThread:1769875 [sender.py:send_request():405] send_request: defer
+2024-10-11 04:50:30,833 INFO    SenderThread:1769875 [sender.py:send_request_defer():609] handle sender defer: 0
+2024-10-11 04:50:30,833 INFO    SenderThread:1769875 [sender.py:transition_state():613] send defer: 1
+2024-10-11 04:50:30,833 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: defer
+2024-10-11 04:50:30,833 INFO    HandlerThread:1769875 [handler.py:handle_request_defer():184] handle defer: 1
+2024-10-11 04:50:30,833 DEBUG   SenderThread:1769875 [sender.py:send_request():405] send_request: defer
+2024-10-11 04:50:30,833 INFO    SenderThread:1769875 [sender.py:send_request_defer():609] handle sender defer: 1
+2024-10-11 04:50:30,833 INFO    SenderThread:1769875 [sender.py:transition_state():613] send defer: 2
+2024-10-11 04:50:30,833 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: defer
+2024-10-11 04:50:30,833 INFO    HandlerThread:1769875 [handler.py:handle_request_defer():184] handle defer: 2
+2024-10-11 04:50:30,833 INFO    HandlerThread:1769875 [system_monitor.py:finish():203] Stopping system monitor
+2024-10-11 04:50:30,833 DEBUG   SystemMonitor:1769875 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-10-11 04:50:30,833 DEBUG   SystemMonitor:1769875 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-10-11 04:50:30,833 DEBUG   SystemMonitor:1769875 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-10-11 04:50:30,834 INFO    HandlerThread:1769875 [interfaces.py:finish():200] Joined cpu monitor
+2024-10-11 04:50:30,834 INFO    HandlerThread:1769875 [interfaces.py:finish():200] Joined disk monitor
+2024-10-11 04:50:30,910 INFO    HandlerThread:1769875 [interfaces.py:finish():200] Joined gpu monitor
+2024-10-11 04:50:30,911 INFO    HandlerThread:1769875 [interfaces.py:finish():200] Joined memory monitor
+2024-10-11 04:50:30,911 INFO    HandlerThread:1769875 [interfaces.py:finish():200] Joined network monitor
+2024-10-11 04:50:30,911 DEBUG   SenderThread:1769875 [sender.py:send_request():405] send_request: defer
+2024-10-11 04:50:30,911 INFO    SenderThread:1769875 [sender.py:send_request_defer():609] handle sender defer: 2
+2024-10-11 04:50:30,911 INFO    SenderThread:1769875 [sender.py:transition_state():613] send defer: 3
+2024-10-11 04:50:30,911 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: defer
+2024-10-11 04:50:30,911 INFO    HandlerThread:1769875 [handler.py:handle_request_defer():184] handle defer: 3
+2024-10-11 04:50:30,911 DEBUG   SenderThread:1769875 [sender.py:send_request():405] send_request: defer
+2024-10-11 04:50:30,911 INFO    SenderThread:1769875 [sender.py:send_request_defer():609] handle sender defer: 3
+2024-10-11 04:50:30,911 INFO    SenderThread:1769875 [sender.py:transition_state():613] send defer: 4
+2024-10-11 04:50:30,911 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: defer
+2024-10-11 04:50:30,911 INFO    HandlerThread:1769875 [handler.py:handle_request_defer():184] handle defer: 4
+2024-10-11 04:50:30,911 DEBUG   SenderThread:1769875 [sender.py:send_request():405] send_request: defer
+2024-10-11 04:50:30,911 INFO    SenderThread:1769875 [sender.py:send_request_defer():609] handle sender defer: 4
+2024-10-11 04:50:30,911 INFO    SenderThread:1769875 [sender.py:transition_state():613] send defer: 5
+2024-10-11 04:50:30,911 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: defer
+2024-10-11 04:50:30,911 INFO    HandlerThread:1769875 [handler.py:handle_request_defer():184] handle defer: 5
+2024-10-11 04:50:30,912 DEBUG   SenderThread:1769875 [sender.py:send():378] send: summary
+2024-10-11 04:50:30,914 INFO    SenderThread:1769875 [sender.py:_save_file():1389] saving file wandb-summary.json with policy end
+2024-10-11 04:50:30,914 DEBUG   SenderThread:1769875 [sender.py:send_request():405] send_request: defer
+2024-10-11 04:50:30,914 INFO    SenderThread:1769875 [sender.py:send_request_defer():609] handle sender defer: 5
+2024-10-11 04:50:30,914 INFO    SenderThread:1769875 [sender.py:transition_state():613] send defer: 6
+2024-10-11 04:50:30,914 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: defer
+2024-10-11 04:50:30,914 INFO    HandlerThread:1769875 [handler.py:handle_request_defer():184] handle defer: 6
+2024-10-11 04:50:30,915 DEBUG   SenderThread:1769875 [sender.py:send_request():405] send_request: defer
+2024-10-11 04:50:30,915 INFO    SenderThread:1769875 [sender.py:send_request_defer():609] handle sender defer: 6
+2024-10-11 04:50:30,917 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: status_report
+2024-10-11 04:50:30,959 INFO    Thread-12 :1769875 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/howon/iclr25-exp/wandb/run-20241011_045020-aieuhrn8/files/output.log
+2024-10-11 04:50:30,959 INFO    Thread-12 :1769875 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/howon/iclr25-exp/wandb/run-20241011_045020-aieuhrn8/files/wandb-summary.json
+2024-10-11 04:50:30,982 INFO    SenderThread:1769875 [sender.py:transition_state():613] send defer: 7
+2024-10-11 04:50:30,982 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: defer
+2024-10-11 04:50:30,982 INFO    HandlerThread:1769875 [handler.py:handle_request_defer():184] handle defer: 7
+2024-10-11 04:50:30,982 DEBUG   SenderThread:1769875 [sender.py:send_request():405] send_request: defer
+2024-10-11 04:50:30,982 INFO    SenderThread:1769875 [sender.py:send_request_defer():609] handle sender defer: 7
+2024-10-11 04:50:31,830 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: poll_exit
+2024-10-11 04:50:31,959 INFO    Thread-12 :1769875 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/howon/iclr25-exp/wandb/run-20241011_045020-aieuhrn8/files/config.yaml
+2024-10-11 04:50:32,350 INFO    SenderThread:1769875 [sender.py:transition_state():613] send defer: 8
+2024-10-11 04:50:32,351 DEBUG   SenderThread:1769875 [sender.py:send_request():405] send_request: poll_exit
+2024-10-11 04:50:32,351 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: defer
+2024-10-11 04:50:32,351 INFO    HandlerThread:1769875 [handler.py:handle_request_defer():184] handle defer: 8
+2024-10-11 04:50:32,351 DEBUG   SenderThread:1769875 [sender.py:send_request():405] send_request: defer
+2024-10-11 04:50:32,351 INFO    SenderThread:1769875 [sender.py:send_request_defer():609] handle sender defer: 8
+2024-10-11 04:50:32,351 INFO    SenderThread:1769875 [job_builder.py:build():432] Attempting to build job artifact
+2024-10-11 04:50:32,352 INFO    SenderThread:1769875 [job_builder.py:_get_source_type():576] no source found
+2024-10-11 04:50:32,352 INFO    SenderThread:1769875 [sender.py:transition_state():613] send defer: 9
+2024-10-11 04:50:32,352 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: defer
+2024-10-11 04:50:32,352 INFO    HandlerThread:1769875 [handler.py:handle_request_defer():184] handle defer: 9
+2024-10-11 04:50:32,352 DEBUG   SenderThread:1769875 [sender.py:send_request():405] send_request: defer
+2024-10-11 04:50:32,352 INFO    SenderThread:1769875 [sender.py:send_request_defer():609] handle sender defer: 9
+2024-10-11 04:50:32,352 INFO    SenderThread:1769875 [dir_watcher.py:finish():358] shutting down directory watcher
+2024-10-11 04:50:32,830 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: poll_exit
+2024-10-11 04:50:32,961 INFO    SenderThread:1769875 [dir_watcher.py:_on_file_modified():288] file/dir modified: /home/howon/iclr25-exp/wandb/run-20241011_045020-aieuhrn8/files/output.log
+2024-10-11 04:50:32,961 INFO    SenderThread:1769875 [dir_watcher.py:finish():388] scan: /home/howon/iclr25-exp/wandb/run-20241011_045020-aieuhrn8/files
+2024-10-11 04:50:32,962 INFO    SenderThread:1769875 [dir_watcher.py:finish():402] scan save: /home/howon/iclr25-exp/wandb/run-20241011_045020-aieuhrn8/files/conda-environment.yaml conda-environment.yaml
+2024-10-11 04:50:32,962 INFO    SenderThread:1769875 [dir_watcher.py:finish():402] scan save: /home/howon/iclr25-exp/wandb/run-20241011_045020-aieuhrn8/files/config.yaml config.yaml
+2024-10-11 04:50:32,964 INFO    SenderThread:1769875 [dir_watcher.py:finish():402] scan save: /home/howon/iclr25-exp/wandb/run-20241011_045020-aieuhrn8/files/wandb-metadata.json wandb-metadata.json
+2024-10-11 04:50:32,964 INFO    SenderThread:1769875 [dir_watcher.py:finish():402] scan save: /home/howon/iclr25-exp/wandb/run-20241011_045020-aieuhrn8/files/requirements.txt requirements.txt
+2024-10-11 04:50:32,964 INFO    SenderThread:1769875 [dir_watcher.py:finish():402] scan save: /home/howon/iclr25-exp/wandb/run-20241011_045020-aieuhrn8/files/output.log output.log
+2024-10-11 04:50:32,964 INFO    SenderThread:1769875 [dir_watcher.py:finish():402] scan save: /home/howon/iclr25-exp/wandb/run-20241011_045020-aieuhrn8/files/wandb-summary.json wandb-summary.json
+2024-10-11 04:50:32,964 INFO    SenderThread:1769875 [sender.py:transition_state():613] send defer: 10
+2024-10-11 04:50:32,964 DEBUG   SenderThread:1769875 [sender.py:send_request():405] send_request: poll_exit
+2024-10-11 04:50:32,964 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: defer
+2024-10-11 04:50:32,964 INFO    HandlerThread:1769875 [handler.py:handle_request_defer():184] handle defer: 10
+2024-10-11 04:50:32,965 DEBUG   SenderThread:1769875 [sender.py:send_request():405] send_request: defer
+2024-10-11 04:50:32,965 INFO    SenderThread:1769875 [sender.py:send_request_defer():609] handle sender defer: 10
+2024-10-11 04:50:32,965 INFO    SenderThread:1769875 [file_pusher.py:finish():169] shutting down file pusher
+2024-10-11 04:50:33,141 INFO    wandb-upload_0:1769875 [upload_job.py:push():130] Uploaded file /home/howon/iclr25-exp/wandb/run-20241011_045020-aieuhrn8/files/conda-environment.yaml
+2024-10-11 04:50:33,292 INFO    wandb-upload_3:1769875 [upload_job.py:push():130] Uploaded file /home/howon/iclr25-exp/wandb/run-20241011_045020-aieuhrn8/files/output.log
+2024-10-11 04:50:33,294 INFO    wandb-upload_2:1769875 [upload_job.py:push():130] Uploaded file /home/howon/iclr25-exp/wandb/run-20241011_045020-aieuhrn8/files/requirements.txt
+2024-10-11 04:50:33,367 INFO    wandb-upload_1:1769875 [upload_job.py:push():130] Uploaded file /home/howon/iclr25-exp/wandb/run-20241011_045020-aieuhrn8/files/config.yaml
+2024-10-11 04:50:33,368 INFO    wandb-upload_4:1769875 [upload_job.py:push():130] Uploaded file /home/howon/iclr25-exp/wandb/run-20241011_045020-aieuhrn8/files/wandb-summary.json
+2024-10-11 04:50:33,568 INFO    Thread-11 (_thread_body):1769875 [sender.py:transition_state():613] send defer: 11
+2024-10-11 04:50:33,568 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: defer
+2024-10-11 04:50:33,569 INFO    HandlerThread:1769875 [handler.py:handle_request_defer():184] handle defer: 11
+2024-10-11 04:50:33,569 DEBUG   SenderThread:1769875 [sender.py:send_request():405] send_request: defer
+2024-10-11 04:50:33,569 INFO    SenderThread:1769875 [sender.py:send_request_defer():609] handle sender defer: 11
+2024-10-11 04:50:33,569 INFO    SenderThread:1769875 [file_pusher.py:join():175] waiting for file pusher
+2024-10-11 04:50:33,569 INFO    SenderThread:1769875 [sender.py:transition_state():613] send defer: 12
+2024-10-11 04:50:33,569 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: defer
+2024-10-11 04:50:33,569 INFO    HandlerThread:1769875 [handler.py:handle_request_defer():184] handle defer: 12
+2024-10-11 04:50:33,569 DEBUG   SenderThread:1769875 [sender.py:send_request():405] send_request: defer
+2024-10-11 04:50:33,569 INFO    SenderThread:1769875 [sender.py:send_request_defer():609] handle sender defer: 12
+2024-10-11 04:50:33,569 INFO    SenderThread:1769875 [file_stream.py:finish():601] file stream finish called
+2024-10-11 04:50:33,625 INFO    SenderThread:1769875 [file_stream.py:finish():605] file stream finish is done
+2024-10-11 04:50:33,625 INFO    SenderThread:1769875 [sender.py:transition_state():613] send defer: 13
+2024-10-11 04:50:33,625 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: defer
+2024-10-11 04:50:33,625 INFO    HandlerThread:1769875 [handler.py:handle_request_defer():184] handle defer: 13
+2024-10-11 04:50:33,626 DEBUG   SenderThread:1769875 [sender.py:send_request():405] send_request: defer
+2024-10-11 04:50:33,626 INFO    SenderThread:1769875 [sender.py:send_request_defer():609] handle sender defer: 13
+2024-10-11 04:50:33,626 INFO    SenderThread:1769875 [sender.py:transition_state():613] send defer: 14
+2024-10-11 04:50:33,626 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: defer
+2024-10-11 04:50:33,626 INFO    HandlerThread:1769875 [handler.py:handle_request_defer():184] handle defer: 14
+2024-10-11 04:50:33,626 DEBUG   SenderThread:1769875 [sender.py:send():378] send: final
+2024-10-11 04:50:33,626 DEBUG   SenderThread:1769875 [sender.py:send():378] send: footer
+2024-10-11 04:50:33,626 DEBUG   SenderThread:1769875 [sender.py:send_request():405] send_request: defer
+2024-10-11 04:50:33,626 INFO    SenderThread:1769875 [sender.py:send_request_defer():609] handle sender defer: 14
+2024-10-11 04:50:33,626 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: poll_exit
+2024-10-11 04:50:33,627 DEBUG   SenderThread:1769875 [sender.py:send_request():405] send_request: poll_exit
+2024-10-11 04:50:33,627 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: poll_exit
+2024-10-11 04:50:33,627 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: server_info
+2024-10-11 04:50:33,627 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: get_summary
+2024-10-11 04:50:33,627 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: sampled_history
+2024-10-11 04:50:33,627 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: internal_messages
+2024-10-11 04:50:33,627 DEBUG   SenderThread:1769875 [sender.py:send_request():405] send_request: poll_exit
+2024-10-11 04:50:33,628 DEBUG   SenderThread:1769875 [sender.py:send_request():405] send_request: server_info
+2024-10-11 04:50:33,733 INFO    MainThread:1769875 [wandb_run.py:_footer_history_summary_info():3994] rendering history
+2024-10-11 04:50:33,733 INFO    MainThread:1769875 [wandb_run.py:_footer_history_summary_info():4026] rendering summary
+2024-10-11 04:50:33,733 INFO    MainThread:1769875 [wandb_run.py:_footer_sync_info():3953] logging synced files
+2024-10-11 04:50:33,733 DEBUG   HandlerThread:1769875 [handler.py:handle_request():158] handle_request: shutdown
+2024-10-11 04:50:33,734 INFO    HandlerThread:1769875 [handler.py:finish():882] shutting down handler
+2024-10-11 04:50:34,628 INFO    WriterThread:1769875 [datastore.py:close():296] close: /home/howon/iclr25-exp/wandb/run-20241011_045020-aieuhrn8/run-aieuhrn8.wandb
+2024-10-11 04:50:34,733 INFO    SenderThread:1769875 [sender.py:finish():1545] shutting down sender
+2024-10-11 04:50:34,733 INFO    SenderThread:1769875 [file_pusher.py:finish():169] shutting down file pusher
+2024-10-11 04:50:34,733 INFO    SenderThread:1769875 [file_pusher.py:join():175] waiting for file pusher

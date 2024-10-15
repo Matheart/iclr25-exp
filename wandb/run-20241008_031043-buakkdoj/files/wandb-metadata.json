@@ -1,0 +1,31 @@
+{
+    "os": "Linux-4.18.0-477.51.1.el8_8.x86_64-x86_64-with-glibc2.17",
+    "python": "3.8.12",
+    "heartbeatAt": "2024-10-08T07:10:45.425867",
+    "startedAt": "2024-10-08T07:10:43.818188",
+    "docker": null,
+    "gpu": "NVIDIA L40S",
+    "gpu_count": 1,
+    "cpu_count": 64,
+    "cuda": null,
+    "args": [
+        "--inv_op_power",
+        "1",
+        "--folder",
+        "new_plot",
+        "--noise_level",
+        "1e-1",
+        "--num_layer",
+        "3",
+        "--width",
+        "512",
+        "--act",
+        "relu"
+    ],
+    "state": "running",
+    "program": "nn_exp.py",
+    "codePath": "nn_exp.py",
+    "host": "lh1200.arc-ts.umich.edu",
+    "username": "howon",
+    "executable": "/home/howon/.conda/envs/cot/bin/python"
+}

@@ -1,0 +1,11 @@
+python nn_exp.py --noise_level 1e-5 --folder test_delta_change_u --inv_op_power 1
+python nn_exp.py --noise_level 5e-5 --folder test_delta_change_u --inv_op_power 1
+python nn_exp.py --noise_level 1e-4 --folder test_delta_change_u --inv_op_power 1
+python nn_exp.py --noise_level 5e-4 --folder test_delta_change_u --inv_op_power 1
+python nn_exp.py --noise_level 1e-3 --folder test_delta_change_u --inv_op_power 1
+python nn_exp.py --noise_level 5e-3 --folder test_delta_change_u --inv_op_power 1
+python nn_exp.py --noise_level 1e-2 --folder test_delta_change_u --inv_op_power 1
+python nn_exp.py --noise_level 5e-2 --folder test_delta_change_u --inv_op_power 1
+python nn_exp.py --noise_level 1e-1 --folder test_delta_change_u --inv_op_power 1
+python nn_exp.py --noise_level 5e-1 --folder test_delta_change_u --inv_op_power 1
+python nn_exp.py --noise_level 1 --folder test_delta_change_u --inv_op_power 1

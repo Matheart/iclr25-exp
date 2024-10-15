@@ -1,0 +1,35 @@
+
+  0%|                                                                                | 97/100000 [00:01<23:21, 71.26it/s]
+epoch 0  training loss: 59.9628791809082
+epoch 0  clean testing loss: 54.80839920043945
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_sin_size500_noise1.00e-01_invop1 ...
+epoch 100  training loss: 0.12200441211462021
+
+  0%|▏                                                                              | 241/100000 [00:03<22:58, 72.35it/s]
+epoch 200  training loss: 0.10312077403068542
+
+  0%|▎                                                                              | 374/100000 [00:05<26:32, 62.55it/s]
+epoch 300  training loss: 0.09919083118438721
+epoch 300  clean testing loss: 0.014780806377530098
+epoch 400  training loss: 0.09735207259654999
+
+  0%|▍                                                                              | 495/100000 [00:07<28:12, 58.80it/s]
+epoch 500  training loss: 0.0961315929889679
+
+  1%|▍                                                                              | 605/100000 [00:09<32:40, 50.69it/s]
+epoch 600  training loss: 0.09524312615394592
+
+  1%|▌                                                                              | 725/100000 [00:11<28:08, 58.80it/s]
+epoch 700  training loss: 0.0945638120174408
+
+  1%|▋                                                                              | 845/100000 [00:13<28:12, 58.58it/s]
+epoch 800  training loss: 0.09402762353420258
+
+  1%|▊                                                                              | 961/100000 [00:15<28:00, 58.92it/s]
+epoch 900  training loss: 0.093593068420887
+
+  1%|▊                                                                             | 1000/100000 [00:16<26:42, 61.76it/s]
+epoch 1000  training loss: 0.09323488175868988
+epoch 1000  clean testing loss: 0.008689453825354576
+Validation loss variation < 1e-6, trained to interpolation, stop
+Saving the clean test loss file into log/new_plot/output_dim2_width512_layers3_sin_size500_noise1.00e-01_invop1 ...

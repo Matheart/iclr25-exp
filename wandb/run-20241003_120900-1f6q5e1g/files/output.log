@@ -1,0 +1,108 @@
+
+  1%|▊                                                                                                                      | 728/100000 [00:01<02:59, 554.05it/s]
+epoch 0  training loss: inf
+epoch 0  clean testing loss: nan
+epoch 100  training loss: nan
+epoch 100  clean testing loss: nan
+epoch 200  training loss: nan
+epoch 200  clean testing loss: nan
+epoch 300  training loss: nan
+epoch 300  clean testing loss: nan
+epoch 400  training loss: nan
+epoch 400  clean testing loss: nan
+epoch 500  training loss: nan
+epoch 500  clean testing loss: nan
+epoch 600  training loss: nan
+epoch 600  clean testing loss: nan
+epoch 700  training loss: nan
+epoch 700  clean testing loss: nan
+epoch 800  training loss: nan
+
+  2%|██▏                                                                                                                   | 1851/100000 [00:03<02:55, 558.40it/s]
+epoch 900  training loss: nan
+epoch 900  clean testing loss: nan
+epoch 1000  training loss: nan
+epoch 1000  clean testing loss: nan
+epoch 1100  training loss: nan
+epoch 1100  clean testing loss: nan
+epoch 1200  training loss: nan
+epoch 1200  clean testing loss: nan
+epoch 1300  training loss: nan
+epoch 1300  clean testing loss: nan
+epoch 1400  training loss: nan
+epoch 1400  clean testing loss: nan
+epoch 1500  training loss: nan
+epoch 1500  clean testing loss: nan
+epoch 1600  training loss: nan
+epoch 1600  clean testing loss: nan
+epoch 1700  training loss: nan
+epoch 1700  clean testing loss: nan
+epoch 1800  training loss: nan
+epoch 1800  clean testing loss: nan
+epoch 1900  training loss: nan
+
+  3%|███▌                                                                                                                  | 2976/100000 [00:05<02:53, 557.69it/s]
+epoch 2000  training loss: nan
+epoch 2000  clean testing loss: nan
+epoch 2100  training loss: nan
+epoch 2100  clean testing loss: nan
+epoch 2200  training loss: nan
+epoch 2200  clean testing loss: nan
+epoch 2300  training loss: nan
+epoch 2300  clean testing loss: nan
+epoch 2400  training loss: nan
+epoch 2400  clean testing loss: nan
+epoch 2500  training loss: nan
+epoch 2500  clean testing loss: nan
+epoch 2600  training loss: nan
+epoch 2600  clean testing loss: nan
+epoch 2700  training loss: nan
+epoch 2700  clean testing loss: nan
+epoch 2800  training loss: nan
+epoch 2800  clean testing loss: nan
+epoch 2900  training loss: nan
+epoch 2900  clean testing loss: nan
+epoch 3000  training loss: nan
+  4%|████▊                                                                                                                 | 4055/100000 [00:07<02:57, 540.39it/s]
+Traceback (most recent call last):
+  File "/home/howon/aistats25-exp/nn_exp.py", line 249, in <module>
+    test_losses = compute_loss(test_x, test_y, inv_op_power)
+  File "/home/howon/aistats25-exp/nn_exp.py", line 198, in compute_loss
+    predict_y = model_with_boundary(train_x)#model_with_boundary(train_x)#model_with_boundary(train_x)
+  File "/home/howon/aistats25-exp/nn_exp.py", line 188, in model_with_boundary
+    return torch.prod(x*(1-x),dim=1).reshape([x.size()[0],1])*model(x)
+  File "/home/howon/.conda/envs/cs552/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/howon/.conda/envs/cs552/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/howon/aistats25-exp/nn_exp.py", line 92, in forward
+    x = self.activation(fc(x))
+  File "/home/howon/.conda/envs/cs552/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/howon/.conda/envs/cs552/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/howon/aistats25-exp/nn_exp.py", line 55, in forward
+    return torch.relu(x) ** self.power
+  File "/home/howon/.conda/envs/cs552/lib/python3.10/site-packages/torch/_tensor.py", line 40, in wrapped
+    return f(*args, **kwargs)
+KeyboardInterrupt
+epoch 3100  training loss: nan
+epoch 3100  clean testing loss: nan
+epoch 3200  training loss: nan
+epoch 3200  clean testing loss: nan
+epoch 3300  training loss: nan
+epoch 3300  clean testing loss: nan
+epoch 3400  training loss: nan
+epoch 3400  clean testing loss: nan
+epoch 3500  training loss: nan
+epoch 3500  clean testing loss: nan
+epoch 3600  training loss: nan
+epoch 3600  clean testing loss: nan
+epoch 3700  training loss: nan
+epoch 3700  clean testing loss: nan
+epoch 3800  training loss: nan
+epoch 3800  clean testing loss: nan
+epoch 3900  training loss: nan
+epoch 3900  clean testing loss: nan
+epoch 4000  training loss: nan
+epoch 4000  clean testing loss: nan

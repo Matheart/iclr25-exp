@@ -1,0 +1,35 @@
+2024-10-01 13:00:26,212 INFO    MainThread:2533306 [wandb_setup.py:_flush():76] Current SDK version is 0.17.0
+2024-10-01 13:00:26,212 INFO    MainThread:2533306 [wandb_setup.py:_flush():76] Configure stats pid to 2533306
+2024-10-01 13:00:26,212 INFO    MainThread:2533306 [wandb_setup.py:_flush():76] Loading settings from /home/howon/.config/wandb/settings
+2024-10-01 13:00:26,212 INFO    MainThread:2533306 [wandb_setup.py:_flush():76] Loading settings from /home/howon/aistats25-exp/wandb/settings
+2024-10-01 13:00:26,213 INFO    MainThread:2533306 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2024-10-01 13:00:26,213 INFO    MainThread:2533306 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-10-01 13:00:26,213 INFO    MainThread:2533306 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'nn_exp.py', 'program_abspath': '/home/howon/aistats25-exp/nn_exp.py', 'program': '/home/howon/aistats25-exp/nn_exp.py'}
+2024-10-01 13:00:26,213 INFO    MainThread:2533306 [wandb_setup.py:_flush():76] Applying login settings: {}
+2024-10-01 13:00:26,214 INFO    MainThread:2533306 [wandb_init.py:_log_setup():520] Logging user logs to /home/howon/aistats25-exp/wandb/run-20241001_130026-rtf3jjw8/logs/debug.log
+2024-10-01 13:00:26,214 INFO    MainThread:2533306 [wandb_init.py:_log_setup():521] Logging internal logs to /home/howon/aistats25-exp/wandb/run-20241001_130026-rtf3jjw8/logs/debug-internal.log
+2024-10-01 13:00:26,214 INFO    MainThread:2533306 [wandb_init.py:init():560] calling init triggers
+2024-10-01 13:00:26,215 INFO    MainThread:2533306 [wandb_init.py:init():567] wandb.init called with sweep_config: {}
+config: {}
+2024-10-01 13:00:26,215 INFO    MainThread:2533306 [wandb_init.py:init():610] starting backend
+2024-10-01 13:00:26,215 INFO    MainThread:2533306 [wandb_init.py:init():614] setting up manager
+2024-10-01 13:00:26,220 INFO    MainThread:2533306 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-10-01 13:00:26,221 INFO    MainThread:2533306 [wandb_init.py:init():622] backend started and connected
+2024-10-01 13:00:26,231 INFO    MainThread:2533306 [wandb_init.py:init():711] updated telemetry
+2024-10-01 13:00:26,231 INFO    MainThread:2533306 [wandb_init.py:init():744] communicating run to backend with 90.0 second timeout
+2024-10-01 13:00:26,457 INFO    MainThread:2533306 [wandb_run.py:_on_init():2396] communicating current version
+2024-10-01 13:00:26,557 INFO    MainThread:2533306 [wandb_run.py:_on_init():2405] got version response upgrade_message: "wandb version 0.18.2 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2024-10-01 13:00:26,557 INFO    MainThread:2533306 [wandb_init.py:init():795] starting run threads in backend
+2024-10-01 13:00:30,435 INFO    MainThread:2533306 [wandb_run.py:_console_start():2374] atexit reg
+2024-10-01 13:00:30,436 INFO    MainThread:2533306 [wandb_run.py:_redirect():2229] redirect: wrap_raw
+2024-10-01 13:00:30,436 INFO    MainThread:2533306 [wandb_run.py:_redirect():2294] Wrapping output streams.
+2024-10-01 13:00:30,436 INFO    MainThread:2533306 [wandb_run.py:_redirect():2319] Redirects installed.
+2024-10-01 13:00:30,437 INFO    MainThread:2533306 [wandb_init.py:init():838] run started, returning control to user process
+2024-10-01 13:00:35,047 INFO    MainThread:2533306 [wandb_run.py:_finish():2103] finishing run matheart/mlp/rtf3jjw8
+2024-10-01 13:00:35,048 INFO    MainThread:2533306 [wandb_run.py:_atexit_cleanup():2343] got exitcode: 0
+2024-10-01 13:00:35,048 INFO    MainThread:2533306 [wandb_run.py:_restore():2326] restore
+2024-10-01 13:00:35,048 INFO    MainThread:2533306 [wandb_run.py:_restore():2332] restore done
+2024-10-01 13:00:44,458 INFO    MainThread:2533306 [wandb_run.py:_footer_history_summary_info():3994] rendering history
+2024-10-01 13:00:44,459 INFO    MainThread:2533306 [wandb_run.py:_footer_history_summary_info():4026] rendering summary
+2024-10-01 13:00:44,468 INFO    MainThread:2533306 [wandb_run.py:_footer_sync_info():3953] logging synced files

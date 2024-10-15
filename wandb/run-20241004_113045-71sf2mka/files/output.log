@@ -1,0 +1,64 @@
+
+  0%|                                                                                                                             | 5/100000 [00:01<7:27:46,  3.72it/s]
+epoch 0  training loss: 43.690887451171875
+
+
+  0%|                                                                                                                            | 83/100000 [00:05<1:22:23, 20.21it/s]
+epoch 100  training loss: 17.89021110534668
+
+
+
+  0%|▏                                                                                                                          | 203/100000 [00:11<1:22:39, 20.12it/s]
+epoch 200  training loss: 17.89021110534668
+
+
+  0%|▎                                                                                                                          | 284/100000 [00:15<1:22:21, 20.18it/s]
+epoch 300  training loss: 17.89021110534668
+
+
+
+  0%|▌                                                                                                                          | 407/100000 [00:21<1:22:04, 20.22it/s]
+epoch 400  training loss: 17.89021110534668
+
+
+
+  1%|▋                                                                                                                          | 527/100000 [00:27<1:21:55, 20.24it/s]
+epoch 500  training loss: 17.89021110534668
+
+
+  1%|▋                                                                                                                          | 608/100000 [00:31<1:22:21, 20.12it/s]
+epoch 600  training loss: 17.89021110534668
+
+
+
+  1%|▉                                                                                                                          | 731/100000 [00:37<1:22:10, 20.14it/s]
+epoch 700  training loss: 17.89021110534668
+  1%|▉                                                                                                                          | 749/100000 [00:38<1:25:01, 19.46it/s]
+Traceback (most recent call last):
+  File "/home/howon/aistats25-exp/nn_exp.py", line 273, in <module>
+    optimizer.step(closure)
+  File "/home/howon/.conda/envs/cs552/lib/python3.10/site-packages/torch/optim/lr_scheduler.py", line 75, in wrapper
+    return wrapped(*args, **kwargs)
+  File "/home/howon/.conda/envs/cs552/lib/python3.10/site-packages/torch/optim/optimizer.py", line 391, in wrapper
+    out = func(*args, **kwargs)
+  File "/home/howon/.conda/envs/cs552/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/howon/.conda/envs/cs552/lib/python3.10/site-packages/torch/optim/lbfgs.py", line 433, in step
+    loss, flat_grad, t, ls_func_evals = _strong_wolfe(
+  File "/home/howon/.conda/envs/cs552/lib/python3.10/site-packages/torch/optim/lbfgs.py", line 147, in _strong_wolfe
+    f_new, g_new = obj_func(x, t, d)
+  File "/home/howon/.conda/envs/cs552/lib/python3.10/site-packages/torch/optim/lbfgs.py", line 431, in obj_func
+    return self._directional_evaluate(closure, x, t, d)
+  File "/home/howon/.conda/envs/cs552/lib/python3.10/site-packages/torch/optim/lbfgs.py", line 285, in _directional_evaluate
+    loss = float(closure())
+  File "/home/howon/.conda/envs/cs552/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/howon/aistats25-exp/nn_exp.py", line 258, in closure
+    losses = compute_loss(train_x, train_y, inv_op_power)
+  File "/home/howon/aistats25-exp/nn_exp.py", line 224, in compute_loss
+    ux  = torch.autograd.grad(predict_y, train_x,grad_outputs=v,create_graph=True)[0]
+  File "/home/howon/.conda/envs/cs552/lib/python3.10/site-packages/torch/autograd/__init__.py", line 412, in grad
+    result = _engine_run_backward(
+  File "/home/howon/.conda/envs/cs552/lib/python3.10/site-packages/torch/autograd/graph.py", line 744, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+KeyboardInterrupt

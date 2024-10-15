@@ -1,0 +1,96 @@
+
+  1%|▊                                                                                                                      | 715/100000 [00:01<03:02, 544.52it/s]
+epoch 0  training loss: 3449.479736328125
+epoch 0  clean testing loss: 1406.78955078125
+epoch 100  training loss: 0.9796369075775146
+epoch 100  clean testing loss: 0.8709657192230225
+epoch 200  training loss: 0.4324326515197754
+epoch 200  clean testing loss: 0.3918679356575012
+epoch 300  training loss: 0.31959205865859985
+epoch 300  clean testing loss: 0.25364822149276733
+epoch 400  training loss: 0.2171582132577896
+epoch 400  clean testing loss: 0.15216825902462006
+epoch 500  training loss: 0.11466275900602341
+epoch 500  clean testing loss: 0.03750397637486458
+epoch 600  training loss: 0.10741190612316132
+epoch 600  clean testing loss: 0.03329353407025337
+epoch 700  training loss: 0.10391930490732193
+epoch 700  clean testing loss: 0.03180941939353943
+epoch 800  training loss: 0.10080166906118393
+
+  2%|██▏                                                                                                                   | 1820/100000 [00:03<02:58, 549.37it/s]
+epoch 900  training loss: 0.09847905486822128
+epoch 900  clean testing loss: 0.02944185398519039
+epoch 1000  training loss: 0.09634368121623993
+epoch 1000  clean testing loss: 0.02877444587647915
+epoch 1100  training loss: 0.0943431705236435
+epoch 1100  clean testing loss: 0.028447069227695465
+epoch 1200  training loss: 0.09261630475521088
+epoch 1200  clean testing loss: 0.028912458568811417
+epoch 1300  training loss: 0.09053627401590347
+epoch 1300  clean testing loss: 0.028219861909747124
+epoch 1400  training loss: 0.08874601125717163
+epoch 1400  clean testing loss: 0.02815445326268673
+epoch 1500  training loss: 0.0876542404294014
+epoch 1500  clean testing loss: 0.028473474085330963
+epoch 1600  training loss: 0.08660362660884857
+epoch 1600  clean testing loss: 0.028795672580599785
+epoch 1700  training loss: 0.08556145429611206
+epoch 1700  clean testing loss: 0.029302187263965607
+epoch 1800  training loss: 0.08446001261472702
+epoch 1800  clean testing loss: 0.02997669205069542
+epoch 1900  training loss: 0.08323565125465393
+
+  3%|███▍                                                                                                                  | 2932/100000 [00:05<02:56, 548.47it/s]
+epoch 2000  training loss: 0.08227349072694778
+epoch 2000  clean testing loss: 0.03160957247018814
+epoch 2100  training loss: 0.08126286417245865
+epoch 2100  clean testing loss: 0.03250132128596306
+epoch 2200  training loss: 0.08077874779701233
+epoch 2200  clean testing loss: 0.033511675894260406
+epoch 2300  training loss: 0.0793609693646431
+epoch 2300  clean testing loss: 0.03431732952594757
+epoch 2400  training loss: 0.07842326909303665
+epoch 2400  clean testing loss: 0.03533119335770607
+epoch 2500  training loss: 0.08057286590337753
+epoch 2500  clean testing loss: 0.06839172542095184
+epoch 2600  training loss: 0.07700488716363907
+epoch 2600  clean testing loss: 0.0368843711912632
+epoch 2700  training loss: 0.0763237476348877
+epoch 2700  clean testing loss: 0.03762170672416687
+epoch 2800  training loss: 0.0756087675690651
+epoch 2800  clean testing loss: 0.0383976548910141
+epoch 2900  training loss: 0.07483146339654922
+epoch 2900  clean testing loss: 0.0393151231110096
+epoch 3000  training loss: 0.07932097464799881
+  4%|████▎                                                                                                                 | 3660/100000 [00:06<02:59, 537.86it/s]
+Traceback (most recent call last):
+  File "/home/howon/aistats25-exp/nn_exp.py", line 241, in <module>
+    losses = compute_loss(train_x, train_y, inv_op_power)
+  File "/home/howon/aistats25-exp/nn_exp.py", line 196, in compute_loss
+    predict_y = model_with_boundary(train_x)#model_with_boundary(train_x)#model_with_boundary(train_x)
+  File "/home/howon/aistats25-exp/nn_exp.py", line 186, in model_with_boundary
+    return torch.prod(x*(1-x),dim=1).reshape([x.size()[0],1])*model(x)
+  File "/home/howon/.conda/envs/cs552/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/howon/.conda/envs/cs552/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/howon/aistats25-exp/nn_exp.py", line 87, in forward
+    x = self.activation(self.fc_in(x))
+  File "/home/howon/.conda/envs/cs552/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/howon/.conda/envs/cs552/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+KeyboardInterrupt
+epoch 3100  training loss: 0.0734117180109024
+epoch 3100  clean testing loss: 0.04091190546751022
+epoch 3200  training loss: 0.07273904979228973
+epoch 3200  clean testing loss: 0.041792597621679306
+epoch 3300  training loss: 0.07199470698833466
+epoch 3300  clean testing loss: 0.04281139746308327
+epoch 3400  training loss: 0.071378193795681
+epoch 3400  clean testing loss: 0.04376939684152603
+epoch 3500  training loss: 0.0707467794418335
+epoch 3500  clean testing loss: 0.04473143815994263
+epoch 3600  training loss: 0.3001815676689148
+epoch 3600  clean testing loss: 0.11380517482757568
